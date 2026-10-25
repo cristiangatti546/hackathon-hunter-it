@@ -1,0 +1,29 @@
+# Hackathon Hunter IT - Configuration
+# Copy to config.yaml and fill in your values (or use env vars)
+
+# Telegram notifications (optional)
+telegram_bot_token: ""  # Get from @BotFather
+telegram_chat_id: ""    # Your chat ID (get from @userinfobot)
+
+# Notion database (optional)
+notion_token: ""        # Integration token from notion.so/my-integrations
+notion_db_id: ""        # Database ID from URL
+
+# Output settings
+output_dir: "output"
+max_age_days: 90
+
+# Source toggles (true/false)
+sources:
+  devpost: true
+  hackerrank: true
+  eventbrite_it: true
+  mii_istruzione: true
+  regione_lombardia: true
+  regione_emilia: true
+  polimi_hack: true
+  unibo_hack: true
+  hackinbo: true
+  owi_italy: true
+  github_events: true
+  oii_olimpiadi: true

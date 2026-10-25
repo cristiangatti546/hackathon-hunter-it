@@ -1,0 +1,29 @@
+# Bug Bounty Recon - Configuration
+output_dir: "recon_output"
+hunter_name: "YourHandle"  # Your hacker handle for reports
+default_severity:
+  - critical
+  - high
+  - medium
+max_subdomains: 500
+
+# Wordlists (expanduser paths supported)
+wordlists:
+  subdomains: "~/wordlists/subdomains-top1million-110000.txt"
+  fuzzing: "~/wordlists/raft-medium-directories.txt"
+  params: "~/wordlists/param-miner.txt"
+
+# Nuclei templates
+nuclei:
+  templates_dir: "~/nuclei-templates"
+  tags:
+    - cve
+    - oast
+    - generic
+    - exposure
+    - misconfig
+    - takeover
+  severity:
+    - critical
+    - high
+    - medium
