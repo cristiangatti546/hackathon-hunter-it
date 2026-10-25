@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "name": "thekashifnazir/herbtwin",
+    "url": "https://github.com/thekashifnazir/herbtwin",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "thing to do: each choice tested on the plant's twin against the next 2 weeks of weather, decided by NVIDIA Nemotron on Nebius Token Factory."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Photo a plant, get one thing to do: each choice tested on the plant's twin against the next 2 weeks of weather, decided by NVIDIA Nemotron on Nebius Token Factory.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993284",
+    "hash_id": "e7f934d10938"
+  },
+  {
+    "name": "harshbhx/ratchet",
+    "url": "https://github.com/harshbhx/ratchet",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "models: an OpenAI-compatible gateway that turns your traffic into a cheaper model you own. Built on NVIDIA Nemotron + Nebius.",
+      "harshbhx/ratchet License-clean distillation on open models: an OpenAI-compatible gateway that turns y"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "License-clean distillation on open models: an OpenAI-compatible gateway that turns your traffic into a cheaper model you own. Built on NVIDIA Nemotron + Nebius.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993343",
+    "hash_id": "4eb5c5a8b429"
+  },
+  {
+    "name": "Jibby2k1/Avatar",
+    "url": "https://github.com/Jibby2k1/Avatar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Jibby2k1/Avatar Turn two phone videos into a drivable 3-D Gaussian avatar - a fitting/tracking layer on Gaussian Shell Maps (",
+      "Jibby2k1/Avatar Turn two phone videos into a drivable 3-D Gaussian avatar - a fitting/tracking layer on Gaussian"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Turn two phone videos into a drivable 3-D Gaussian avatar - a fitting/tracking layer on Gaussian Shell Maps (CVPR 2024)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993360",
+    "hash_id": "6547936f7d92"
+  },
+  {
+    "name": "akshat333-debug/AushadhiNet",
+    "url": "https://github.com/akshat333-debug/AushadhiNet",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "akshat333-debug/AushadhiNet Medicines, beds and staff for India's primary health centres, reported on WhatsApp in 7 languages: stock-out forecasts on real HMIS data, OR-T"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Medicines, beds and staff for India's primary health centres, reported on WhatsApp in 7 languages: stock-out forecasts on real HMIS data, OR-Tools transfers, referrals and deputations, officer-approved. Google Cloud (Gemini, Chirp 2, Vertex AI). Code for Communities Track 3 finalist.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993414",
+    "hash_id": "a8c82d0ff3e1"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993448",
+    "hash_id": "71cc03f4d318"
+  },
+  {
+    "name": "Prashant-thakur77/AccessCast",
+    "url": "https://github.com/Prashant-thakur77/AccessCast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One video, made for every viewer: audio description (with extended description), captions with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993482",
+    "hash_id": "eaedddf1bb32"
+  },
+  {
+    "name": "Aneeshparveda/CircuitMind",
+    "url": "https://github.com/Aneeshparveda/CircuitMind",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Aneeshparveda/CircuitMind Deterministic, offline PCB fault diagnosis from test logs, BOM, and past repair h",
+      "Aneeshparveda/CircuitMind Deterministic, offline PCB fault diagnosis from test logs, BOM, and past repair history — ranked root causes with evidence,"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Deterministic, offline PCB fault diagnosis from test logs, BOM, and past repair history — ranked root causes with evidence, confidence tiers, and triage reports. Synthetic-data prototype from AI Domain X Challenge 2026 (team Dragons).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993507",
+    "hash_id": "7400a24faba4"
+  },
+  {
+    "name": "ksiox1337/grid-storm-sensors",
+    "url": "https://github.com/ksiox1337/grid-storm-sensors",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ksiox1337/grid-storm-sensors WATT THE HACK 2026 · Bayesian drone search for storm damage on a real Bavarian grid · top 3"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "WATT THE HACK 2026 · Bayesian drone search for storm damage on a real Bavarian grid · top 3",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993525",
+    "hash_id": "09d8b6a77006"
+  },
+  {
+    "name": "othniel74/pitchlight",
+    "url": "https://github.com/othniel74/pitchlight",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "othniel74/pitchlight Pitchlight: AI football commentary you can put on air. Multi-agent Microsoft Foundry workflow where every statement is verified bef"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Pitchlight: AI football commentary you can put on air. Multi-agent Microsoft Foundry workflow where every statement is verified before anyone sees it.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993553",
+    "hash_id": "61104b634683"
+  },
+  {
+    "name": "Hari-Aditya-003/AegisPR",
+    "url": "https://github.com/Hari-Aditya-003/AegisPR",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Hari-Aditya-003/AegisPR Evidence-backed autonomous pull request verification with NVIDIA Nemotron, Nebius, and CUDA",
+      "Hari-Aditya-003/AegisPR Evidence-backed autonomous pull request verification with NVIDIA Nemotron, Ne"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence-backed autonomous pull request verification with NVIDIA Nemotron, Nebius, and CUDA",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993579",
+    "hash_id": "e0ad1595e513"
+  },
+  {
+    "name": "phonehseng/clearhome",
+    "url": "https://github.com/phonehseng/clearhome",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ied homes, shelters and rent help in Northern Virginia and Blacksburg. Gemma 4 on our own Cloud Run GPU, Google Maps walking times, crisis hotlines. GDG Build with AI x Hacktoberfest 2026.",
+      "phonehseng/clearhome Clear Home: ask in plain words, get verified homes, shelters and rent help in N",
+      "phonehseng/clearhome Clear Home: ask in plain words, get verified homes, shelters and rent help in Northern Virgin"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Clear Home: ask in plain words, get verified homes, shelters and rent help in Northern Virginia and Blacksburg. Gemma 4 on our own Cloud Run GPU, Google Maps walking times, crisis hotlines. GDG Build with AI x Hacktoberfest 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-25T20:55:43.993596",
+    "hash_id": "48320eb91cde"
+  }
+]
