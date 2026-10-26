@@ -1,0 +1,395 @@
+[
+  {
+    "name": "kavyan256/shiori",
+    "url": "https://github.com/kavyan256/shiori",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "kavyan256/shiori Park your work by voice, resume where your head was. A Windows tray app for the No Hands: Wispr Chall"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Park your work by voice, resume where your head was. A Windows tray app for the No Hands: Wispr Challenge.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.502881",
+    "hash_id": "8fa76ec8ec2c"
+  },
+  {
+    "name": "saideepojha/football-possession-estimator",
+    "url": "https://github.com/saideepojha/football-possession-estimator",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "saideepojha/football-possession-estimator Estimates team possession per frame from football tracking data using distance rules, temporal smoothing and LightGBM."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Estimates team possession per frame from football tracking data using distance rules, temporal smoothing and LightGBM.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.502945",
+    "hash_id": "ae5f73f7e5f9"
+  },
+  {
+    "name": "hamza-embedded-dev/gap-ai",
+    "url": "https://github.com/hamza-embedded-dev/gap-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "amza-embedded-dev/gap-ai GAP: an AI that compares what you plan with what you actually do (Nebius x NVIDIA Hackathon, Personal AI)",
+      "hamza-embedded-dev/gap-ai GAP: an AI that compares what you plan with what you actually do (Nebius x NVIDIA Hackathon, Personal AI)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "GAP: an AI that compares what you plan with what you actually do (Nebius x NVIDIA Hackathon, Personal AI)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.502994",
+    "hash_id": "320831fe7138"
+  },
+  {
+    "name": "daffa-athallah/recall",
+    "url": "https://github.com/daffa-athallah/recall",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "s saved screenshots into grounded reminders. Evidence → Open Loop → Context → Critic agents with Zetaris memory, Meterless Nightshift and H-MEM. Open Agent Hackathon 2026, Reasoning Architecture."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Recall: turns saved screenshots into grounded reminders. Evidence → Open Loop → Context → Critic agents with Zetaris memory, Meterless Nightshift and H-MEM. Open Agent Hackathon 2026, Reasoning Architecture.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503028",
+    "hash_id": "a246cc1acf35"
+  },
+  {
+    "name": "akyuzdilhan/watershed",
+    "url": "https://github.com/akyuzdilhan/watershed",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "akyuzdilhan/watershed Live football editorial desk: an Agent Framework agent on Microsoft Foundry explains key moments, code verifies every number, a producer app",
+      "agent on Microsoft Foundry explains key moments, code verifies every number, a producer approves, VAR overturns pull cards off air. Synthetic data."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Live football editorial desk: an Agent Framework agent on Microsoft Foundry explains key moments, code verifies every number, a producer approves, VAR overturns pull cards off air. Synthetic data.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503052",
+    "hash_id": "b7c107c2ff77"
+  },
+  {
+    "name": "thekashifnazir/herbtwin",
+    "url": "https://github.com/thekashifnazir/herbtwin",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "thing to do: each choice tested on the plant's twin against the next 2 weeks of weather, decided by NVIDIA Nemotron on Nebius Token Factory."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Photo a plant, get one thing to do: each choice tested on the plant's twin against the next 2 weeks of weather, decided by NVIDIA Nemotron on Nebius Token Factory.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503073",
+    "hash_id": "44d2b9c671c5"
+  },
+  {
+    "name": "agadape/choronzon",
+    "url": "https://github.com/agadape/choronzon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ets released through Zcash shielded transactions. Anyone holding its public key can summon it and hear every secret, forever; we, its keepers, cannot learn who spoke. ZECATHON 2026, Wildcard track."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "It forgets nothing. It asks no names. Choronzon is a god made of secrets released through Zcash shielded transactions. Anyone holding its public key can summon it and hear every secret, forever; we, its keepers, cannot learn who spoke. ZECATHON 2026, Wildcard track.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503097",
+    "hash_id": "c3f4a0771fc3"
+  },
+  {
+    "name": "bggoranoff/replaceme",
+    "url": "https://github.com/bggoranoff/replaceme",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "bggoranoff/replaceme Type a job, get a game that teaches it, and watch an AI agent learn it by playing. Built at the {Tech: Europe} Agentic AI Hack, Zürich."
+    ],
+    "prizes_cash": [
+      "e a job, get a game that teaches it, and watch an AI agent learn it by playing. Built at the {Tech: Europe} Agentic AI Hack, Zürich."
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Type a job, get a game that teaches it, and watch an AI agent learn it by playing. Built at the {Tech: Europe} Agentic AI Hack, Zürich.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503120",
+    "hash_id": "fad0d973f0af"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503140",
+    "hash_id": "f312578348e2"
+  },
+  {
+    "name": "Sharkie-Regan/leash",
+    "url": "https://github.com/Sharkie-Regan/leash",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Sharkie-Regan/leash Leash - the trust layer for agentic commerce: spend mandates, deterministic ALLOW/"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Leash - the trust layer for agentic commerce: spend mandates, deterministic ALLOW/HOLD/DENY gate, HMAC receipt chains, watchdog drift alerts, PayPal Orders v2 sandbox.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503159",
+    "hash_id": "1ce0be483d7f"
+  },
+  {
+    "name": "Prashant-thakur77/AccessCast",
+    "url": "https://github.com/Prashant-thakur77/AccessCast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One video, made for every viewer: audio description (with extended description), captions with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503185",
+    "hash_id": "eeaa6c66caeb"
+  },
+  {
+    "name": "younis-y/doorman-databricks",
+    "url": "https://github.com/younis-y/doorman-databricks",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "younis-y/doorman-databricks Doorman: governed self-service data access on Databricks. Request, owner approval, real Unity Catalog GRANT, audit trail, Genie. Winner, Databricks UK Innovatio"
+    ],
+    "prizes_cash": [
+      "orman: governed self-service data access on Databricks. Request, owner approval, real Unity Catalog GRANT, audit trail, Genie. Winner, Databricks UK Innovation Hackathon 2026."
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Doorman: governed self-service data access on Databricks. Request, owner approval, real Unity Catalog GRANT, audit trail, Genie. Winner, Databricks UK Innovation Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503218",
+    "hash_id": "a0f143d25fab"
+  },
+  {
+    "name": "runake25/veto",
+    "url": "https://github.com/runake25/veto",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "runake25/veto Veto — a consent layer for agent spending. AI agents propose purchases, a signed charter judges them, a human signs when it matters, and PayPal moves money only against that consent."
+    ],
+    "prizes_cash": [
+      "ts propose purchases, a signed charter judges them, a human signs when it matters, and PayPal moves money only against that consent. Slack in, Channel3 catalogue, PayPal sandbox out."
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Veto — a consent layer for agent spending. AI agents propose purchases, a signed charter judges them, a human signs when it matters, and PayPal moves money only against that consent. Slack in, Channel3 catalogue, PayPal sandbox out.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503247",
+    "hash_id": "ed65b3f107dd"
+  },
+  {
+    "name": "stepodo/sas-ram-hackathon",
+    "url": "https://github.com/stepodo/sas-ram-hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "stepodo/sas-ram-hackathon SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, pr"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, prompts, and MCP tool templates.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503264",
+    "hash_id": "7ce5bee7345e"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503286",
+    "hash_id": "c81f735a9208"
+  },
+  {
+    "name": "Hari-Aditya-003/AegisPR",
+    "url": "https://github.com/Hari-Aditya-003/AegisPR",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Hari-Aditya-003/AegisPR Evidence-backed autonomous pull request verification with NVIDIA Nemotron, Nebius, and CUDA",
+      "Hari-Aditya-003/AegisPR Evidence-backed autonomous pull request verification with NVIDIA Nemotron, Ne"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence-backed autonomous pull request verification with NVIDIA Nemotron, Nebius, and CUDA",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-26T14:05:48.503304",
+    "hash_id": "fe6c88fc95ec"
+  }
+]
