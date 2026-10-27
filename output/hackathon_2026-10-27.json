@@ -1,0 +1,293 @@
+[
+  {
+    "name": "Fu93/phoenixrepo",
+    "url": "https://github.com/Fu93/phoenixrepo",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ving it, and explains every refusal with verifiable evidence (verbatim quotes, hash-chained traces, NVIDIA Nemotron via Meterless Nightshift). Open Agent Hackathon 2026, Track 02."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Checks whether an abandoned GitHub repo's idea already exists before reviving it, and explains every refusal with verifiable evidence (verbatim quotes, hash-chained traces, NVIDIA Nemotron via Meterless Nightshift). Open Agent Hackathon 2026, Track 02.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.820796",
+    "hash_id": "bd2a91cbe843"
+  },
+  {
+    "name": "zhangshen20/garagedesk",
+    "url": "https://github.com/zhangshen20/garagedesk",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "zhangshen20/garagedesk Voice-first back office for a one-owner mechanic shop: he says the job, NVIDIA Nemotron on Nebius Token Factory makes the GST invoice, his wife approves with one tap.",
+      "zhangshen20/garagedesk Voice-first back office for a one-owner mechanic shop: he says the job, NVIDIA Nemotron on"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Voice-first back office for a one-owner mechanic shop: he says the job, NVIDIA Nemotron on Nebius Token Factory makes the GST invoice, his wife approves with one tap.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.820855",
+    "hash_id": "412f387d1fce"
+  },
+  {
+    "name": "lleoparden/naqsh",
+    "url": "https://github.com/lleoparden/naqsh",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lleoparden/naqsh Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta Global AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.820890",
+    "hash_id": "9f60503796ba"
+  },
+  {
+    "name": "adr1en360/Becuz",
+    "url": "https://github.com/adr1en360/Becuz",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "s why a small shop's profit dropped. It checks sales, bank, supplier and expense records through Zetaris, and shows the records behind every cause."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An AI agent that explains why a small shop's profit dropped. It checks sales, bank, supplier and expense records through Zetaris, and shows the records behind every cause.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.820910",
+    "hash_id": "48841c69ad0a"
+  },
+  {
+    "name": "Rebell-Leader/proveit",
+    "url": "https://github.com/Rebell-Leader/proveit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "generated security reports against the real source code before a maintainer spends an hour on them. NVIDIA Nemotron on Nebius Token Factory."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Checks AI-generated security reports against the real source code before a maintainer spends an hour on them. NVIDIA Nemotron on Nebius Token Factory.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.820954",
+    "hash_id": "75f6779664ed"
+  },
+  {
+    "name": "HeyyAnce/ScamShield-AurixHackathon-2026",
+    "url": "https://github.com/HeyyAnce/ScamShield-AurixHackathon-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ld-AurixHackathon-2026 ScamShield: English, Hindi and Hinglish scam-message checks with Gemini AI, warning rules and reference examples. Built by Team Ideaforge for AURIX 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "ScamShield: English, Hindi and Hinglish scam-message checks with Gemini AI, warning rules and reference examples. Built by Team Ideaforge for AURIX 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.820974",
+    "hash_id": "89d9bdb368ec"
+  },
+  {
+    "name": "Krishna-Ram9/specpay",
+    "url": "https://github.com/Krishna-Ram9/specpay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Krishna-Ram9/specpay AI-scoped milestones with PayPal-held funds, released only when the work matches the sp"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI-scoped milestones with PayPal-held funds, released only when the work matches the spec",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.821006",
+    "hash_id": "d83c31b64a1f"
+  },
+  {
+    "name": "miravena/foreveryours",
+    "url": "https://github.com/miravena/foreveryours",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "oreveryours ForeverYours — a voice-first, caregiver-briefed AI companion for older adults (Nebius x NVIDIA Global AI Hackathon)",
+      "miravena/foreveryours ForeverYours — a voice-first, caregiver-briefed AI companion for older adults (Nebius x NVIDIA Global AI Hackathon)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "ForeverYours — a voice-first, caregiver-briefed AI companion for older adults (Nebius x NVIDIA Global AI Hackathon)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.821044",
+    "hash_id": "bd8c39b2c7fb"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.821070",
+    "hash_id": "0f8e4070fdac"
+  },
+  {
+    "name": "PedroYellow/U-bot-Pay",
+    "url": "https://github.com/PedroYellow/U-bot-Pay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [],
+    "prizes_cash": [
+      "PedroYellow/U-bot-Pay 🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirme",
+      "PedroYellow/U-bot-Pay 🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirmed, dual-control. Built at"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirmed, dual-control. Built at U-Hackathon 2026 (Bangkok).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.821138",
+    "hash_id": "6a144da9f171"
+  },
+  {
+    "name": "Farshadmhd/beampilot",
+    "url": "https://github.com/Farshadmhd/beampilot",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Farshadmhd/beampilot Agentic laser beam characterisation (ISO 11146, M²) with Meta Muse Spark and SAM"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agentic laser beam characterisation (ISO 11146, M²) with Meta Muse Spark and SAM 3.1. Built during the Meta Global AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.821172",
+    "hash_id": "523a50a4f038"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-27T13:06:33.821202",
+    "hash_id": "695a7fe3ac91"
+  }
+]
