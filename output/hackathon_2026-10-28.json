@@ -1,0 +1,367 @@
+[
+  {
+    "name": "PedroYellow/U-bot-Pay",
+    "url": "https://github.com/PedroYellow/U-bot-Pay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [],
+    "prizes_cash": [
+      "PedroYellow/U-bot-Pay 🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirme",
+      "PedroYellow/U-bot-Pay 🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirmed, dual-control. Built at"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirmed, dual-control. Built at U-Hackathon 2026 (Bangkok).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492097",
+    "hash_id": "ba16552ca685"
+  },
+  {
+    "name": "Ophelie4/ledgerguard",
+    "url": "https://github.com/Ophelie4/ledgerguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Ophelie4/ledgerguard Five GitLab Duo agents that guard money code for micro-lenders: review, failing tests, pipeline"
+    ],
+    "prizes_cash": [
+      "Ophelie4/ledgerguard Five GitLab Duo agents that guard money code for micro-lenders: review, failing tests, pipeline fixes, Cloud Run ledger proof, release"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Five GitLab Duo agents that guard money code for micro-lenders: review, failing tests, pipeline fixes, Cloud Run ledger proof, release gate.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492153",
+    "hash_id": "54c55af2a1c3"
+  },
+  {
+    "name": "bgrubbs1/palate-qloo-agent",
+    "url": "https://github.com/bgrubbs1/palate-qloo-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "he Qloo taste graph. Plans a night from your taste, critiques its own shortlist, cites every Qloo request. Zero-dependency Python. Built for the Qloo Agentic Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "PALATE: an agentic culture concierge grounded in the Qloo taste graph. Plans a night from your taste, critiques its own shortlist, cites every Qloo request. Zero-dependency Python. Built for the Qloo Agentic Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492179",
+    "hash_id": "eea63f92f721"
+  },
+  {
+    "name": "AIVANCIN/aivancin",
+    "url": "https://github.com/AIVANCIN/aivancin",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AIVANCIN/aivancin AI career bridge for underemployed Malaysian graduates: describe the work you actually do, and AIVANCIN"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI career bridge for underemployed Malaysian graduates: describe the work you actually do, and AIVANCIN shows the graduate roles that use it, what AI is doing in each, and a free, verified plan to get there.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492226",
+    "hash_id": "39c39968d651"
+  },
+  {
+    "name": "rehaanajani/Sentinel-Shield",
+    "url": "https://github.com/rehaanajani/Sentinel-Shield",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rministic security layer between autonomous AI agents and a trading API: 8 attack surfaces closed, hard exposure caps. Ossome Hacks 3.0 runner-up."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Deterministic security layer between autonomous AI agents and a trading API: 8 attack surfaces closed, hard exposure caps. Ossome Hacks 3.0 runner-up.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492247",
+    "hash_id": "9977ce99a8ae"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492263",
+    "hash_id": "585cc02c96b5"
+  },
+  {
+    "name": "froid1911/cortical-mirror",
+    "url": "https://github.com/froid1911/cortical-mirror",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "froid1911/cortical-mirror Live next-frame prediction with hierarchical predictive coding, DMVFN, and online expert routing."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Live next-frame prediction with hierarchical predictive coding, DMVFN, and online expert routing.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492280",
+    "hash_id": "a9fe34e0c4d9"
+  },
+  {
+    "name": "ConWan30/qortime-ai",
+    "url": "https://github.com/ConWan30/qortime-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ConWan30/qortime-ai QorTime AI: Meta Muse Spark, Muse Wonder and SAM 3.1 explain, red-team and visualize a deterministic video-game integrity re"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "QorTime AI: Meta Muse Spark, Muse Wonder and SAM 3.1 explain, red-team and visualize a deterministic video-game integrity referee (anti-cheat + verified skill, signed match receipts). The AI never decides a verdict. Meta Global AI Developer Hackathon, Indie Developer track.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492456",
+    "hash_id": "14b458172e0a"
+  },
+  {
+    "name": "zaidwhy/aftershock",
+    "url": "https://github.com/zaidwhy/aftershock",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "zaidwhy/aftershock A Qloo taste agent for breakout shows: forecasts where a Netflix breakout charts next, what travels with it there, and which songs reach a new generation. Every forecast is loc"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A Qloo taste agent for breakout shows: forecasts where a Netflix breakout charts next, what travels with it there, and which songs reach a new generation. Every forecast is locked in a public ledger first.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492483",
+    "hash_id": "d23ae2442145"
+  },
+  {
+    "name": "lleoparden/naqsh",
+    "url": "https://github.com/lleoparden/naqsh",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lleoparden/naqsh Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta Global AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492519",
+    "hash_id": "bfc87e450f42"
+  },
+  {
+    "name": "creativeheadz/wegweiser-eyewitness",
+    "url": "https://github.com/creativeheadz/wegweiser-eyewitness",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "creativeheadz/wegweiser-eyewitness Wegweiser Eyewitness: when the agent goes dark, the user's phone becomes the sensor. Built for the Meta Global AI Developer Hackathon, Oct 26 - Nov 4 2026.",
+      "creativeheadz/wegweiser-eyewitness Wegweiser Eyewitness: when the agent goes dark, the user's phone becomes the sensor. Built for the Meta Global AI Developer Hackathon, Oct 26 -"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Wegweiser Eyewitness: when the agent goes dark, the user's phone becomes the sensor. Built for the Meta Global AI Developer Hackathon, Oct 26 - Nov 4 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492541",
+    "hash_id": "ce67eb47e4a4"
+  },
+  {
+    "name": "harshbhx/ratchet",
+    "url": "https://github.com/harshbhx/ratchet",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "els: an OpenAI-compatible gateway that turns your traffic into a Nemotron adapter you own. Built on NVIDIA Nemotron + Nebius Token Factory.",
+      "harshbhx/ratchet License-clean distillation on open models: an OpenAI-compatible gateway that turns y"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "License-clean distillation on open models: an OpenAI-compatible gateway that turns your traffic into a Nemotron adapter you own. Built on NVIDIA Nemotron + Nebius Token Factory.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492560",
+    "hash_id": "a2c596bfcc57"
+  },
+  {
+    "name": "Priska997/yaohang-guard",
+    "url": "https://github.com/Priska997/yaohang-guard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Priska997/yaohang-guard Agnes-powered cold-chain delivery simulation with 8 MCP tools, stateful replanning and reproduci"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agnes-powered cold-chain delivery simulation with 8 MCP tools, stateful replanning and reproducible evidence. 药航守护 · 智翼药航队",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492610",
+    "hash_id": "757ee9ede817"
+  },
+  {
+    "name": "axxess-triaxis/Omnidamus",
+    "url": "https://github.com/axxess-triaxis/Omnidamus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "axxess-triaxis/Omnidamus Omnichannel conversational relay agent - AWS CDS Agentic AI Partner Hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Omnichannel conversational relay agent - AWS CDS Agentic AI Partner Hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492634",
+    "hash_id": "6855ac3c0e1b"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-28T13:56:24.492650",
+    "hash_id": "132b1ff2743b"
+  }
+]
