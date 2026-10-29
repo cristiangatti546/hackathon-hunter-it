@@ -1,0 +1,341 @@
+[
+  {
+    "name": "aryamaan06/6D",
+    "url": "https://github.com/aryamaan06/6D",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ence for space projects: review design changes, rerun affected checks and investigate findings with NVIDIA Nemotron on Nebius.",
+      "aryamaan06/6D Traceable engineering evidence for space projects: review design changes, rerun affect"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Traceable engineering evidence for space projects: review design changes, rerun affected checks and investigate findings with NVIDIA Nemotron on Nebius.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.101953",
+    "hash_id": "b6c3c851ea43"
+  },
+  {
+    "name": "imthi16/proofmerge",
+    "url": "https://github.com/imthi16/proofmerge",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "imthi16/proofmerge Counterexample-driven verifier for AI-generated pull requests. Muse Spark 1.3 turns a patch into falsifiable claims, synthesizes pytest + Hypothesis probes, runs them in",
+      "imthi16/proofmerge Counterexample-driven verifier for AI-generated pull requests. Muse Spark 1.3 turns a patch into falsifiable claims, synthesizes pytest + Hypothesis probes"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Counterexample-driven verifier for AI-generated pull requests. Muse Spark 1.3 turns a patch into falsifiable claims, synthesizes pytest + Hypothesis probes, runs them in a locked-down sandbox, and blocks the merge only with a minimal, reproducible failing test. Built for the Meta Global AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102028",
+    "hash_id": "a3f0e74a42d8"
+  },
+  {
+    "name": "syehsyoh-dokling/VENTHORA",
+    "url": "https://github.com/syehsyoh-dokling/VENTHORA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "he AI proposes, deterministic engines verify, Airwallex executes. Agentic Banking Hackathon 2026, Starter Kits 01 + 03."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence-gated treasury agent on Airwallex: the AI proposes, deterministic engines verify, Airwallex executes. Agentic Banking Hackathon 2026, Starter Kits 01 + 03.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102065",
+    "hash_id": "002037340ee0"
+  },
+  {
+    "name": "lleoparden/naqsh",
+    "url": "https://github.com/lleoparden/naqsh",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lleoparden/naqsh Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta Global AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102091",
+    "hash_id": "6d449f925cb5"
+  },
+  {
+    "name": "froid1911/cortical-mirror",
+    "url": "https://github.com/froid1911/cortical-mirror",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "froid1911/cortical-mirror Live next-frame prediction with hierarchical predictive coding, DMVFN, and online expert routing."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Live next-frame prediction with hierarchical predictive coding, DMVFN, and online expert routing.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102117",
+    "hash_id": "63cc82ac4cc7"
+  },
+  {
+    "name": "vibhortayal/arya",
+    "url": "https://github.com/vibhortayal/arya",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "vibhortayal/arya Arya — she remembers the list. A grocery assistant that turns the weekly shop into a game. (Win"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arya — she remembers the list. A grocery assistant that turns the weekly shop into a game. (Winter is coming.)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102175",
+    "hash_id": "33ad372140bd"
+  },
+  {
+    "name": "Csandal17/build-night-crew",
+    "url": "https://github.com/Csandal17/build-night-crew",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Csandal17/build-night-crew An always-on agent crew with independent review, restart recovery and spoken handovers."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An always-on agent crew with independent review, restart recovery and spoken handovers.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102192",
+    "hash_id": "1aa4941845dc"
+  },
+  {
+    "name": "zaidwhy/aftershock",
+    "url": "https://github.com/zaidwhy/aftershock",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "zaidwhy/aftershock A Qloo taste agent for breakout shows: forecasts where a Netflix breakout charts next, what travels with it there, and which songs reach a new generation. Every forecast is loc"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A Qloo taste agent for breakout shows: forecasts where a Netflix breakout charts next, what travels with it there, and which songs reach a new generation. Every forecast is locked in a public ledger first.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102214",
+    "hash_id": "ce10fad2fcfd"
+  },
+  {
+    "name": "PedroYellow/U-bot-Pay",
+    "url": "https://github.com/PedroYellow/U-bot-Pay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [],
+    "prizes_cash": [
+      "PedroYellow/U-bot-Pay 🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirme",
+      "PedroYellow/U-bot-Pay 🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirmed, dual-control. Built at"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🎙⚡ Talk to U-bot, money moves. Voice-first USDC payments on Avalanche with ElevenLabs — multi-language, voice-confirmed, dual-control. Built at U-Hackathon 2026 (Bangkok).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102242",
+    "hash_id": "15dbb297a680"
+  },
+  {
+    "name": "harshbhx/ratchet",
+    "url": "https://github.com/harshbhx/ratchet",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "harshbhx/ratchet License-clean distillation on open models: an OpenAI-compatible gateway that turns y"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "License-clean distillation on open models: an OpenAI-compatible gateway that turns your traffic into a small Nemotron adapter. Teacher: Nemotron 3 Ultra on Nebius Token Factory; retrained once on Nebius AI Cloud.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102264",
+    "hash_id": "f75689b8011e"
+  },
+  {
+    "name": "saimaharana4/taste-duel",
+    "url": "https://github.com/saimaharana4/taste-duel",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "saimaharana4/taste-duel Taste Duel: five rounds of cultural discovery, grounded in Qloo rankings and curat"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Taste Duel: five rounds of cultural discovery, grounded in Qloo rankings and curated with Vertex AI.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102279",
+    "hash_id": "162504eddc45"
+  },
+  {
+    "name": "jiarong0423/goodglow-try-on",
+    "url": "https://github.com/jiarong0423/goodglow-try-on",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "jiarong0423/goodglow-try-on Good Glow Try-On: skin-tone-first makeup try-on built on YouCam API (hacka"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Good Glow Try-On: skin-tone-first makeup try-on built on YouCam API (hackathon entry). MIT.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102309",
+    "hash_id": "e600dde88a74"
+  },
+  {
+    "name": "axxess-triaxis/CopperNick-Vision",
+    "url": "https://github.com/axxess-triaxis/CopperNick-Vision",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "k-Vision AI-native cyclone impact & infrastructure vulnerability forecaster + passive sky-scanning early-warning system - Build with AI: Code for Communities (hack2skill/Google Cloud), Track 05"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI-native cyclone impact & infrastructure vulnerability forecaster + passive sky-scanning early-warning system - Build with AI: Code for Communities (hack2skill/Google Cloud), Track 05",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102355",
+    "hash_id": "ced373e77b5f"
+  },
+  {
+    "name": "axxess-triaxis/GALL-e-LEO",
+    "url": "https://github.com/axxess-triaxis/GALL-e-LEO",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "axxess-triaxis/GALL-e-LEO GOSIM Agent Observer hackathon entry -- sky-survey scheduling agent"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "GOSIM Agent Observer hackathon entry -- sky-survey scheduling agent",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-29T14:04:41.102397",
+    "hash_id": "50f47577ea5a"
+  }
+]
