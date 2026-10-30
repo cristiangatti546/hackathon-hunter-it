@@ -1,0 +1,367 @@
+[
+  {
+    "name": "kavyan256/shiori",
+    "url": "https://github.com/kavyan256/shiori",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "kavyan256/shiori Park your work by voice, resume where your head was. A Windows tray app for the No Hands: Wispr Chall"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Park your work by voice, resume where your head was. A Windows tray app for the No Hands: Wispr Challenge.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.815817",
+    "hash_id": "68aa8de266cc"
+  },
+  {
+    "name": "natrajexplore/paywarden",
+    "url": "https://github.com/natrajexplore/paywarden",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "natrajexplore/paywarden Zero-trust payment firewall for AI agents on PayPal (sandbox) — PayPal AI Hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Zero-trust payment firewall for AI agents on PayPal (sandbox) — PayPal AI Hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.815875",
+    "hash_id": "c18097ca12b6"
+  },
+  {
+    "name": "Siddhant75/vera",
+    "url": "https://github.com/Siddhant75/vera",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "embers who you are and what you researched, then adversarially verifies every claim across multiple NVIDIA open models (Nemotron + open models on Nebius Token Factory) with Tavily in six evidence role",
+      "Siddhant75/vera Vera — a personal deep research agent: research that knows you, and proves it. Remembers who you are and what you researched, t"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Vera — a personal deep research agent: research that knows you, and proves it. Remembers who you are and what you researched, then adversarially verifies every claim across multiple NVIDIA open models (Nemotron + open models on Nebius Token Factory) with Tavily in six evidence roles.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.815912",
+    "hash_id": "a6eceb75df44"
+  },
+  {
+    "name": "AbdulAlharbi/sentinel-rx",
+    "url": "https://github.com/AbdulAlharbi/sentinel-rx",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/sentinel-rx Security-aware agentic recovery of a failing enterprise system + reproducible bench"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Security-aware agentic recovery of a failing enterprise system + reproducible benchmark. Humain Hackathon, Challenge 1.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.815944",
+    "hash_id": "bf8fc8ea5ae8"
+  },
+  {
+    "name": "imthi16/proofmerge",
+    "url": "https://github.com/imthi16/proofmerge",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "imthi16/proofmerge Evidence-first verifier for AI-generated pull requests. Muse Spark writes tests that must pass on the original code; each runs 3x on base and patch in a no-network",
+      "imthi16/proofmerge Evidence-first verifier for AI-generated pull requests. Muse Spark writes tests that must pass on the original code; each runs 3x on base and patch"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence-first verifier for AI-generated pull requests. Muse Spark writes tests that must pass on the original code; each runs 3x on base and patch in a no-network Docker sandbox, Muse Wonder checks Spark's work, and plain code decides PASS / REVIEW / BLOCK. Built for the Meta Global AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.815993",
+    "hash_id": "858cb59ff752"
+  },
+  {
+    "name": "nikolareljin/orphan-parts",
+    "url": "https://github.com/nikolareljin/orphan-parts",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "nikolareljin/orphan-parts Scan what you own, decide what it can become, find the missing piece on Marketp"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Scan what you own, decide what it can become, find the missing piece on Marketplace, or prepare what you let go. Private inventory, evidence-backed answers, Meta Model API. Meta Global AI Developer Hackathon entry.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816018",
+    "hash_id": "2ad4ac4922ec"
+  },
+  {
+    "name": "vibhortayal/arya",
+    "url": "https://github.com/vibhortayal/arya",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "vibhortayal/arya Arya — she remembers the list. A grocery assistant that turns the weekly shop into a game. (Win"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arya — she remembers the list. A grocery assistant that turns the weekly shop into a game. (Winter is coming.)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816062",
+    "hash_id": "43c0e94a69da"
+  },
+  {
+    "name": "kamil-shirinov/AWSOME",
+    "url": "https://github.com/kamil-shirinov/AWSOME",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "kamil-shirinov/AWSOME Learn AWS the way you scroll: reels, flashcards and a timed quiz, with an attention score that catches"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Learn AWS the way you scroll: reels, flashcards and a timed quiz, with an attention score that catches skimming. AWS North × Northumbria Hackathon, September 2026: 3rd place.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816087",
+    "hash_id": "0aa5dfade74d"
+  },
+  {
+    "name": "saimaharana4/taste-duel",
+    "url": "https://github.com/saimaharana4/taste-duel",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "saimaharana4/taste-duel Taste Duel: five rounds of cultural discovery, grounded in Qloo rankings and curat"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Taste Duel: five rounds of cultural discovery, grounded in Qloo rankings and curated with Vertex AI.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816118",
+    "hash_id": "e9d360cc245f"
+  },
+  {
+    "name": "apsariUdithara/roottrace-incident-agent-ROOTTRACE-AI",
+    "url": "https://github.com/apsariUdithara/roottrace-incident-agent-ROOTTRACE-AI",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "s and logs, cites its evidence, and verifies code fixes with tests in isolated sandboxes. ~NEBIUS x NVIDIA Global AI Hackathon~",
+      "apsariUdithara/roottrace-incident-agent-ROOTTRACE-AI AI agent that investigates production incidents ac"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agent that investigates production incidents across code, git history, docs and logs, cites its evidence, and verifies code fixes with tests in isolated sandboxes. ~NEBIUS x NVIDIA Global AI Hackathon~",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816143",
+    "hash_id": "1fd737a85eff"
+  },
+  {
+    "name": "0xtigerclaw/finrail",
+    "url": "https://github.com/0xtigerclaw/finrail",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "0xtigerclaw/finrail Agent harness for finance: the model suggests, code checks every figure against the filing, a person releas"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agent harness for finance: the model suggests, code checks every figure against the filing, a person releases.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816158",
+    "hash_id": "f13c9c06e202"
+  },
+  {
+    "name": "Mishallic/Afterimage",
+    "url": "https://github.com/Mishallic/Afterimage",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ng. Step out. The painting stays. Every pixel from the camera, nothing invented. SAM 3.1 and Muse Spark, Meta Global AI Developer Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Film yourself painting. Step out. The painting stays. Every pixel from the camera, nothing invented. SAM 3.1 and Muse Spark, Meta Global AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816191",
+    "hash_id": "94bdeb92d13b"
+  },
+  {
+    "name": "landonking0808/wrenly-agent-checkout",
+    "url": "https://github.com/landonking0808/wrenly-agent-checkout",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "anings, takes payment with PayPal Orders v2 and pays cleaning crews with PayPal Payouts — behind a margin check and an audit ledger. PayPal AI Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agent that quotes home cleanings, takes payment with PayPal Orders v2 and pays cleaning crews with PayPal Payouts — behind a margin check and an audit ledger. PayPal AI Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816220",
+    "hash_id": "9f16284b018e"
+  },
+  {
+    "name": "Prashant-thakur77/AccessCast",
+    "url": "https://github.com/Prashant-thakur77/AccessCast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One video, made for every viewer: audio description (with extended description), captions with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816257",
+    "hash_id": "77ed2909f491"
+  },
+  {
+    "name": "bennibyx/financial-analyst-agent-final",
+    "url": "https://github.com/bennibyx/financial-analyst-agent-final",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "tract verified metrics, analyze risk and sentiment, and answer questions with citations. Built with NVIDIA Nemotron on Nebius.",
+      "bennibyx/financial-analyst-agent-final AI agents that read earnings calls and SEC filings, extract verified metrics, analyze risk and sentiment, and answer ques",
+      "ad earnings calls and SEC filings, extract verified metrics, analyze risk and sentiment, and answer questions with citations. Built with NVIDIA Nemotron on Nebius."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agents that read earnings calls and SEC filings, extract verified metrics, analyze risk and sentiment, and answer questions with citations. Built with NVIDIA Nemotron on Nebius.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-30T13:57:23.816279",
+    "hash_id": "72fc47231596"
+  }
+]
