@@ -1,0 +1,367 @@
+[
+  {
+    "name": "kkhbrany7166/athar",
+    "url": "https://github.com/kkhbrany7166/athar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "kkhbrany7166/athar ATHAR | أثر — Agentic teaching intelligence that helps professors see beyond grades, deliver pers"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "ATHAR | أثر — Agentic teaching intelligence that helps professors see beyond grades, deliver personalized support, and verify learning.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435798",
+    "hash_id": "57813ba215ed"
+  },
+  {
+    "name": "utkukalkanli/agent-router",
+    "url": "https://github.com/utkukalkanli/agent-router",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "utkukalkanli/agent-router Cost-aware LLM model router with honest off-policy evaluation — cache-aware pricing, certified downgrades,"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Cost-aware LLM model router with honest off-policy evaluation — cache-aware pricing, certified downgrades, cost–quality frontier. TUM.ai × Viktor hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435875",
+    "hash_id": "4ef7727eeeb7"
+  },
+  {
+    "name": "g1mn/barrier-lens",
+    "url": "https://github.com/g1mn/barrier-lens",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "g1mn/barrier-lens Turn a 10-second phone clip, filmed at wheelchair height, into a measured answer: does the chair fit past this sidewa",
+      "g1mn/barrier-lens Turn a 10-second phone clip, filmed at wheelchair height, into a measured answer: does t"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Turn a 10-second phone clip, filmed at wheelchair height, into a measured answer: does the chair fit past this sidewalk barrier? Muse Spark 1.3 + SAM 3.1 + geometry.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435892",
+    "hash_id": "645e22744602"
+  },
+  {
+    "name": "nikunjtrehan/remnant-x",
+    "url": "https://github.com/nikunjtrehan/remnant-x",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "jtrehan/remnant-x Photo-to-cutting-plan workbench: Meta SAM 3.1, reviewed remnant inventory, hole-aware nesting and software-verified CNC output."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Photo-to-cutting-plan workbench: Meta SAM 3.1, reviewed remnant inventory, hole-aware nesting and software-verified CNC output.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435906",
+    "hash_id": "a8c5f05383b1"
+  },
+  {
+    "name": "vibhortayal/arya",
+    "url": "https://github.com/vibhortayal/arya",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "vibhortayal/arya Arya : Maintains your Grocery list, learns your usage your purchases, maps your store, and tell"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arya : Maintains your Grocery list, learns your usage your purchases, maps your store, and tells you what is out of stock or cheaper nearby. Built with Meta Muse models for the Meta AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435949",
+    "hash_id": "3dbe09108aec"
+  },
+  {
+    "name": "manishjain-py/school-learning-simplified",
+    "url": "https://github.com/manishjain-py/school-learning-simplified",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "manishjain-py/school-learning-simplified School Learning Simplified: a learning web app for Indian school students, with Me"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "School Learning Simplified: a learning web app for Indian school students, with Meta's Llama",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435961",
+    "hash_id": "da70a5694bc5"
+  },
+  {
+    "name": "Rohank3/civic-agent",
+    "url": "https://github.com/Rohank3/civic-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "hank3/civic-agent Autonomous Public Service & Bureaucracy Execution Agent for Higher Education Scholarships"
+    ],
+    "prizes_cash": [
+      "Rohank3/civic-agent Autonomous Public Service & Bureaucracy Execution Agent for Higher Education Scholarships"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Autonomous Public Service & Bureaucracy Execution Agent for Higher Education Scholarships",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435973",
+    "hash_id": "293ec1aed2c9"
+  },
+  {
+    "name": "h-a-forster/lastseen",
+    "url": "https://github.com/h-a-forster/lastseen",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "h-a-forster/lastseen Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing p",
+      "h-a-forster/lastseen Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing person is"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing person is in the photos. Built on Muse Spark, SAM 3.1 and Muse Voice Transcribe.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.435990",
+    "hash_id": "379cd2f08426"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436000",
+    "hash_id": "59300f49cea4"
+  },
+  {
+    "name": "Muneer320/ReGit",
+    "url": "https://github.com/Muneer320/ReGit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Muneer320/ReGit Local research workspace with versioned repositories, typed artifacts, prose merge, live collaboration and pro"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Local research workspace with versioned repositories, typed artifacts, prose merge, live collaboration and provenance. Team hackathon prototype.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436014",
+    "hash_id": "9619cc786b2b"
+  },
+  {
+    "name": "Mishallic/Afterimage",
+    "url": "https://github.com/Mishallic/Afterimage",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ng. Step out. The painting stays. Every pixel from the camera, nothing invented. SAM 3.1 and Muse Spark, Meta Global AI Developer Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Film yourself painting. Step out. The painting stays. Every pixel from the camera, nothing invented. SAM 3.1 and Muse Spark, Meta Global AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436036",
+    "hash_id": "2d1bedc7207e"
+  },
+  {
+    "name": "Swayam13-exe/VoltProof",
+    "url": "https://github.com/Swayam13-exe/VoltProof",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Swayam13-exe/VoltProof VoltProof AI: a verified AI operator for solar + battery sites, built on Muse Spark Open for the Meta Global AI Developer Hackathon 2026. Work i"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "VoltProof AI: a verified AI operator for solar + battery sites, built on Muse Spark Open for the Meta Global AI Developer Hackathon 2026. Work in progress.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436049",
+    "hash_id": "3b842a033d68"
+  },
+  {
+    "name": "Nabzx/selene",
+    "url": "https://github.com/Nabzx/selene",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Nabzx/selene A lunar hopper drone that proves every plan before it flies. Gemini 4 Argon writes the safety spec, reward and hop",
+      "Nabzx/selene A lunar hopper drone that proves every plan before it flies. Gemini 4 Argon writes the safety spec, rewar"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A lunar hopper drone that proves every plan before it flies. Gemini 4 Argon writes the safety spec, reward and hop plans; a verifier stress-tests each plan on real NASA south pole terrain; a person approves the uplink.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436065",
+    "hash_id": "62ff7fb246e4"
+  },
+  {
+    "name": "shrad1601/vector-disruption-agents",
+    "url": "https://github.com/shrad1601/vector-disruption-agents",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ctor-disruption-agents Vector: three Claude agents (ATC, airline, ground ops) negotiate a disrupted arrival in ≤3 turns. Code enforces every safety rule; a human decides. Built at Autonomous SG 2026 ("
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Vector: three Claude agents (ATC, airline, ground ops) negotiate a disrupted arrival in ≤3 turns. Code enforces every safety rule; a human decides. Built at Autonomous SG 2026 (Airbus Challenge #2) by Team Vector.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436085",
+    "hash_id": "5550bdcf8db9"
+  },
+  {
+    "name": "Autonomous-SG/Autonomous_SG_2026",
+    "url": "https://github.com/Autonomous-SG/Autonomous_SG_2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "-SG/Autonomous_SG_2026 Vector: three Claude agents (ATC, airline, ground ops) negotiate a disrupted arrival in ≤3 turns. Code enforces every safety rule; a human decides. Autonomous SG 2026 · Airbus C"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Vector: three Claude agents (ATC, airline, ground ops) negotiate a disrupted arrival in ≤3 turns. Code enforces every safety rule; a human decides. Autonomous SG 2026 · Airbus Challenge #2 · Team Vector",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-10-31T13:31:49.436103",
+    "hash_id": "034043285611"
+  }
+]
