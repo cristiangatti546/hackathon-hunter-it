@@ -1,0 +1,367 @@
+[
+  {
+    "name": "vibhortayal/arya",
+    "url": "https://github.com/vibhortayal/arya",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "vibhortayal/arya Arya : Maintains your Grocery list, learns your usage your purchases, maps your store, and tell"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arya : Maintains your Grocery list, learns your usage your purchases, maps your store, and tells you what is out of stock or cheaper nearby. Built with Meta Muse models for the Meta AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740583",
+    "hash_id": "0d0486c66216"
+  },
+  {
+    "name": "gafnts/factored-hackathon-2026-faro",
+    "url": "https://github.com/gafnts/factored-hackathon-2026-faro",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "gafnts/factored-hackathon-2026-faro Faro, a card support agent in Spanish and Portuguese. It explains what the records say, blocks a"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Faro, a card support agent in Spanish and Portuguese. It explains what the records say, blocks a card only when its holder confirms, and hands off to a person with a structured case file",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740657",
+    "hash_id": "1a08e6b6814c"
+  },
+  {
+    "name": "cpfree0411/muse-curator",
+    "url": "https://github.com/cpfree0411/muse-curator",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ee0411/muse-curator A Museum for One. An AI-curated gallery where Meta models discover, choose, research and exhibit real paintings. Runs with one command, no key."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A Museum for One. An AI-curated gallery where Meta models discover, choose, research and exhibit real paintings. Runs with one command, no key.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740701",
+    "hash_id": "51352a56537f"
+  },
+  {
+    "name": "sallvador522/clipforge",
+    "url": "https://github.com/sallvador522/clipforge",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "t AI video editor for real creator workflows. Speak the edit; Meta Muse Voice Transcribe and Muse Spark understand and plan it; FFmpeg/OpenCV render and verify a real MP4. Built for the Meta Global Ha"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "ClipForge — a voice-first AI video editor for real creator workflows. Speak the edit; Meta Muse Voice Transcribe and Muse Spark understand and plan it; FFmpeg/OpenCV render and verify a real MP4. Built for the Meta Global Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740731",
+    "hash_id": "c4ee00bba207"
+  },
+  {
+    "name": "yaranoun/GoTrain",
+    "url": "https://github.com/yaranoun/GoTrain",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "code-measured lessons from one dataset to the next. Strands + Claude Sonnet on Amazon Bedrock. MCP server designed to plug into GoPilot: pip install gotrain",
+      "yaranoun/GoTrain An AI agent that trains Earth-observation models on GEO-Bench tasks on its own and c"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An AI agent that trains Earth-observation models on GEO-Bench tasks on its own and carries code-measured lessons from one dataset to the next. Strands + Claude Sonnet on Amazon Bedrock. MCP server designed to plug into GoPilot: pip install gotrain",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740752",
+    "hash_id": "409ae071f3e4"
+  },
+  {
+    "name": "akshita-97/brandguard-ai",
+    "url": "https://github.com/akshita-97/brandguard-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "akshita-97/brandguard-ai Brand-governance web app that checks content against approved brand rules, facts and terminol"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Brand-governance web app that checks content against approved brand rules, facts and terminology before publication. Flask + SQLite, explainable findings, human approval. Round 3 MVP with visual checking, evidence citations, auth, analytics.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740768",
+    "hash_id": "c9472f2b8343"
+  },
+  {
+    "name": "MooreHaww/pi-edge-router",
+    "url": "https://github.com/MooreHaww/pi-edge-router",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "MooreHaww/pi-edge-router Edge-first AI assistant on a Raspberry Pi 5: runs a quantized Llama locally and escalates to a cloud model only when confidence i"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Edge-first AI assistant on a Raspberry Pi 5: runs a quantized Llama locally and escalates to a cloud model only when confidence is low.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740781",
+    "hash_id": "6d7386d607af"
+  },
+  {
+    "name": "h-a-forster/lastseen",
+    "url": "https://github.com/h-a-forster/lastseen",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "h-a-forster/lastseen Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing p",
+      "h-a-forster/lastseen Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing person is"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing person is in the photos. Built on Muse Spark, SAM 3.1 and Muse Voice Transcribe.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740798",
+    "hash_id": "74f8242089bc"
+  },
+  {
+    "name": "hexa3/trend_sight",
+    "url": "https://github.com/hexa3/trend_sight",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "itudinal lab-trend analysis: catches clinically meaningful decline inside normal ranges using transparent linear regression. Hackathon prototype on synthetic data."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Longitudinal lab-trend analysis: catches clinically meaningful decline inside normal ranges using transparent linear regression. Hackathon prototype on synthetic data.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740814",
+    "hash_id": "000478176ea5"
+  },
+  {
+    "name": "samoxis/blinkflow",
+    "url": "https://github.com/samoxis/blinkflow",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "samoxis/blinkflow Say what your simulated robot did wrong. BlinkFlow finds the cause in its code, fixes it and proves the fix by replaying the"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Say what your simulated robot did wrong. BlinkFlow finds the cause in its code, fixes it and proves the fix by replaying the same scene, with Meta's Muse models and SAM 3.1.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740838",
+    "hash_id": "3c6cccdfdf1f"
+  },
+  {
+    "name": "shro-2002/auditglimmer",
+    "url": "https://github.com/shro-2002/auditglimmer",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "2/auditglimmer From inspection photographs to traceable collateral evidence — Meta SAM 3.1 + Muse Spark 1.3"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "From inspection photographs to traceable collateral evidence — Meta SAM 3.1 + Muse Spark 1.3",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740851",
+    "hash_id": "ef5c65cc5a3d"
+  },
+  {
+    "name": "JWHaan/trustee",
+    "url": "https://github.com/JWHaan/trustee",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "JWHaan/trustee Escrow + arbitration layer for agent-to-agent payments on PayPal (PayPal AI Hackathon)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Escrow + arbitration layer for agent-to-agent payments on PayPal (PayPal AI Hackathon)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740860",
+    "hash_id": "a5410865ef2c"
+  },
+  {
+    "name": "localhost8083/kineticlab-neuro-symbolic-metrology",
+    "url": "https://github.com/localhost8083/kineticlab-neuro-symbolic-metrology",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "localhost8083/kineticlab-neuro-symbolic-metrology Measure a pendulum from phone video with Meta SAM 3.1; get hashed, auditable physics from a stdlib-only Python pipeline."
+    ],
+    "prizes_cash": [
+      "localhost8083/kineticlab-neuro-symbolic-metrology Measure a pendulum from phone video with Meta SAM 3.1; get hashed, auditable"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Measure a pendulum from phone video with Meta SAM 3.1; get hashed, auditable physics from a stdlib-only Python pipeline.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740873",
+    "hash_id": "17d4997bce78"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740914",
+    "hash_id": "cc4317e4304f"
+  },
+  {
+    "name": "realFranco/programming-coding-challenges",
+    "url": "https://github.com/realFranco/programming-coding-challenges",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "realFranco/programming-coding-challenges Programming coding challenges to keep my Computer Science concepts and fou",
+      "realFranco/programming-coding-challenges Programming coding challenges to keep my Computer Science concepts and foundations"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Programming coding challenges to keep my Computer Science concepts and foundations",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-01T14:12:34.740927",
+    "hash_id": "8e2724d9ef38"
+  }
+]
