@@ -1,0 +1,367 @@
+[
+  {
+    "name": "ruslanpavliichuk/dispute-radar-paypal",
+    "url": "https://github.com/ruslanpavliichuk/dispute-radar-paypal",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ruslanpavliichuk/dispute-radar-paypal Predicts which PayPal orders will turn into disputes and acts before the buyer files. Cali"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Predicts which PayPal orders will turn into disputes and acts before the buyer files. Calibrated LIghtGBM models with SHAP explanations, PayPal Agent Toolkit actions, and an evidence-backed response when a dispute still arrives. Built for the PayPal AI Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204504",
+    "hash_id": "0bfad4db0dfa"
+  },
+  {
+    "name": "vibhortayal/arya",
+    "url": "https://github.com/vibhortayal/arya",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "vibhortayal/arya Arya : Maintains your Grocery list, learns your usage your purchases, maps your store, and tell"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arya : Maintains your Grocery list, learns your usage your purchases, maps your store, and tells you what is out of stock or cheaper nearby. Built with Meta Muse models for the Meta AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204561",
+    "hash_id": "47a99e2227f4"
+  },
+  {
+    "name": "octavebahoun/o-jarvis-shell",
+    "url": "https://github.com/octavebahoun/o-jarvis-shell",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "octavebahoun/o-jarvis-shell O-jarvis Shell: Jarvis in your terminal, your Chrome and your desktop, on Meta models. B",
+      "octavebahoun/o-jarvis-shell O-jarvis Shell: Jarvis in your terminal, your Chrome and your desktop, on Meta models. Built during the Meta AI Developer Hackathon."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "O-jarvis Shell: Jarvis in your terminal, your Chrome and your desktop, on Meta models. Built during the Meta AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204576",
+    "hash_id": "4fc388b5bbd7"
+  },
+  {
+    "name": "Mishallic/Afterimage",
+    "url": "https://github.com/Mishallic/Afterimage",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ng. Step out. The painting stays. Every pixel from the camera, nothing invented. SAM 3.1 and Muse Spark, Meta Global AI Developer Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Film yourself painting. Step out. The painting stays. Every pixel from the camera, nothing invented. SAM 3.1 and Muse Spark, Meta Global AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204590",
+    "hash_id": "b3f4d5bf671c"
+  },
+  {
+    "name": "Mihirbhati18/monsooncover",
+    "url": "https://github.com/Mihirbhati18/monsooncover",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Mihirbhati18/monsooncover Evidence-gated parametric climate protection for MSME loans: risk scoring, rainfall triggers, insurer review and reco",
+      "Mihirbhati18/monsooncover Evidence-gated parametric climate protection for MSME loans: risk scoring, rainfall triggers, insurer review and rec"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence-gated parametric climate protection for MSME loans: risk scoring, rainfall triggers, insurer review and reconciliation (FastAPI + React)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204605",
+    "hash_id": "f2cecf03687a"
+  },
+  {
+    "name": "SLIPPECAT/tap-me-volleyball",
+    "url": "https://github.com/SLIPPECAT/tap-me-volleyball",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "in an amateur volleyball video and get vertical highlights that follow you. Built on Meta's Muse Spark and SAM 3.1 for Baegugu (Meta AI Developer Hackathon 2026)."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Tap yourself once in an amateur volleyball video and get vertical highlights that follow you. Built on Meta's Muse Spark and SAM 3.1 for Baegugu (Meta AI Developer Hackathon 2026).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204663",
+    "hash_id": "6cefc7859441"
+  },
+  {
+    "name": "h-a-forster/lastseen",
+    "url": "https://github.com/h-a-forster/lastseen",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "h-a-forster/lastseen Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing p",
+      "h-a-forster/lastseen Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing person is"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Drone search and rescue for a volunteer with one drone: where to fly next, and whether the missing person is in the photos. Built on Muse Spark, SAM 3.1 and Muse Voice Transcribe.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204679",
+    "hash_id": "34740d946392"
+  },
+  {
+    "name": "Gi-Tuu/yai-scout",
+    "url": "https://github.com/Gi-Tuu/yai-scout",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Gi-Tuu/yai-scout YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204691",
+    "hash_id": "c25be38e7fd6"
+  },
+  {
+    "name": "Swayam13-exe/VoltProof",
+    "url": "https://github.com/Swayam13-exe/VoltProof",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Swayam13-exe/VoltProof VoltProof AI: a verified AI operator for solar + battery sites, built on Muse Spark Open for the Meta Global AI Developer Hackathon 2026. Work i"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "VoltProof AI: a verified AI operator for solar + battery sites, built on Muse Spark Open for the Meta Global AI Developer Hackathon 2026. Work in progress.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204705",
+    "hash_id": "b2085781fff6"
+  },
+  {
+    "name": "Gi-Tuu/yai-guard",
+    "url": "https://github.com/Gi-Tuu/yai-guard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Gi-Tuu/yai-guard Secure autonomous execution agent: deterministic policy, one-shot sandbox, hash-chained audit (V"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Secure autonomous execution agent: deterministic policy, one-shot sandbox, hash-chained audit (Vultr Agent Rush 2026, Challenge 1)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204717",
+    "hash_id": "0e2293dcbaa4"
+  },
+  {
+    "name": "rk-Hud/cyber-suraksha-2.0",
+    "url": "https://github.com/rk-Hud/cyber-suraksha-2.0",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rk-Hud/cyber-suraksha-2.0 A student-led Python cybersecurity project for cyber-fraud awareness, prevention and response."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A student-led Python cybersecurity project for cyber-fraud awareness, prevention and response.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204728",
+    "hash_id": "cd0dde145e60"
+  },
+  {
+    "name": "SanyaBoroda4/proof-of-turnover",
+    "url": "https://github.com/SanyaBoroda4/proof-of-turnover",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "done only when two independent vision checks and SAM 3.1 agree on one photo. Gaps become re-photo requests in the cleaner's language."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Hackathon 2026. Proves vacation-rental cleanings from the cleaner's photos: an item counts as done only when two independent vision checks and SAM 3.1 agree on one photo. Gaps become re-photo requests in the cleaner's language.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204744",
+    "hash_id": "d16d5b21e9f6"
+  },
+  {
+    "name": "build54Africa/unmapped-starter-kit",
+    "url": "https://github.com/build54Africa/unmapped-starter-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ne-week Build54 challenge with Adaption: datasets for five impact areas, templates, an Adaption API notebook and a product starter.",
+      "build54Africa/unmapped-starter-kit Starter kit for Unmapped, a one-week Build54 challenge with Adaption: datasets for five im"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Starter kit for Unmapped, a one-week Build54 challenge with Adaption: datasets for five impact areas, templates, an Adaption API notebook and a product starter.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204759",
+    "hash_id": "d1c0253750ca"
+  },
+  {
+    "name": "stoicdataguy/asktravel-agent-harness",
+    "url": "https://github.com/stoicdataguy/asktravel-agent-harness",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "stoicdataguy/asktravel-agent-harness Fork-ready LangChain v1 agent harness: Postgres memory, parallel tools, skills, context compa"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Fork-ready LangChain v1 agent harness: Postgres memory, parallel tools, skills, context compaction, live progress, retries, Langfuse traces and evals. Demo agent: AskTravel, a travel planner. One docker compose up to chat.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204785",
+    "hash_id": "f4947f6c228f"
+  },
+  {
+    "name": "SungHyunC/video2urdf",
+    "url": "https://github.com/SungHyunC/video2urdf",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "SungHyunC/video2urdf One phone video of an articulated object in, a measured URDF/MJCF out, checked by replaying it in MuJoCo",
+      "SungHyunC/video2urdf One phone video of an articulated object in, a measured URDF/MJCF out, checked by replaying it in MuJoCo over the video. A"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One phone video of an articulated object in, a measured URDF/MJCF out, checked by replaying it in MuJoCo over the video. A Muse Spark agent drives SAM 3.1; it also runs on open weights.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-02T16:57:50.204808",
+    "hash_id": "6e467c8a50be"
+  }
+]
