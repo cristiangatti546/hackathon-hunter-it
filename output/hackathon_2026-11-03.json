@@ -1,0 +1,366 @@
+[
+  {
+    "name": "EmadQureshiKhi/TryNimbus",
+    "url": "https://github.com/EmadQureshiKhi/TryNimbus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ts, explains, or does it for you. Shadow turns any tutorial video into a live guide. Repro turns a narrated bug video into a verified fix."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A cursor buddy for your Mac on Meta's Muse models. Ask about your screen and it points, explains, or does it for you. Shadow turns any tutorial video into a live guide. Repro turns a narrated bug video into a verified fix.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060204",
+    "hash_id": "875c14c4a263"
+  },
+  {
+    "name": "lukashouthoofd/cenekathon-starter",
+    "url": "https://github.com/lukashouthoofd/cenekathon-starter",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lukashouthoofd/cenekathon-starter Agent-ready team starter for the CenEkathon hackathon: AGENTS.md, skills, roles, docs, CI"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agent-ready team starter for the CenEkathon hackathon: AGENTS.md, skills, roles, docs, CI",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060260",
+    "hash_id": "c55966eb0a0a"
+  },
+  {
+    "name": "needsbuilder/hearsay",
+    "url": "https://github.com/needsbuilder/hearsay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Checks what coding agents say about the outside world (versions, CVE fixes, licences, documented parameters, deprecations) against primary sources, with a cited URL and a verbatim quote.",
+      "needsbuilder/hearsay Checks what coding agents say about the outside world (versions, CVE fixes, licences, document"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Checks what coding agents say about the outside world (versions, CVE fixes, licences, documented parameters, deprecations) against primary sources, with a cited URL and a verbatim quote.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060285",
+    "hash_id": "c4544d65fd28"
+  },
+  {
+    "name": "cpu-16/verified-asset",
+    "url": "https://github.com/cpu-16/verified-asset",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "cpu-16/verified-asset Evidence reports for second-hand furniture listings: which of the seller's cla",
+      "reports for second-hand furniture listings: which of the seller's claims the photos back up. Muse Spark observes blind, fixed rules decide."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence reports for second-hand furniture listings: which of the seller's claims the photos back up. Muse Spark observes blind, fixed rules decide.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060306",
+    "hash_id": "95fba9293829"
+  },
+  {
+    "name": "Gi-Tuu/yai-scout",
+    "url": "https://github.com/Gi-Tuu/yai-scout",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Gi-Tuu/yai-scout YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060335",
+    "hash_id": "bf2ac8ddfcb4"
+  },
+  {
+    "name": "System625/Prysm-Lens",
+    "url": "https://github.com/System625/Prysm-Lens",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ens Name the game in any gameplay clip from the pixels alone: SAM 3.1 + Perception Encoder + Muse Spark. Meta AI Developer Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Name the game in any gameplay clip from the pixels alone: SAM 3.1 + Perception Encoder + Muse Spark. Meta AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060353",
+    "hash_id": "cfb62ca5ad0f"
+  },
+  {
+    "name": "DavidDiazMerino/compinche",
+    "url": "https://github.com/DavidDiazMerino/compinche",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "heir hands to yours. A mobile-first cooking companion that captures tacit knowledge and helps you learn it, with LangGraph, Meta and local SAM 3.1."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "From their hands to yours. A mobile-first cooking companion that captures tacit knowledge and helps you learn it, with LangGraph, Meta and local SAM 3.1.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060374",
+    "hash_id": "875f01bd7162"
+  },
+  {
+    "name": "lleoparden/naqsh",
+    "url": "https://github.com/lleoparden/naqsh",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lleoparden/naqsh Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta Global AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060392",
+    "hash_id": "168d73ac8d7f"
+  },
+  {
+    "name": "HamzaKhanBUIC/TheekKaro.ai",
+    "url": "https://github.com/HamzaKhanBUIC/TheekKaro.ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "HamzaKhanBUIC/TheekKaro.ai Streamlit app that turns a photo or short video of a civic hazard into a formal complaint let"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Streamlit app that turns a photo or short video of a civic hazard into a formal complaint letter in English and Urdu using Google Gemini, with .docx export and a mailto link. Hackathon prototype; not currently deployed.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060415",
+    "hash_id": "72917453e12a"
+  },
+  {
+    "name": "HamzaKhanBUIC/amd-developer-hackathon-track1",
+    "url": "https://github.com/HamzaKhanBUIC/amd-developer-hackathon-track1",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PU, and falls back to Fireworks-hosted models when a simple answer check fails. Keyword routing, no GPU. Hackathon prototype.",
+      "HamzaKhanBUIC/amd-developer-hackathon-track1 Headless batch agent for AMD Developer Hackathon Track 1: answers tas",
+      "ss batch agent for AMD Developer Hackathon Track 1: answers tasks with a 4-bit Qwen 2.5 3B model on CPU, and falls back to Fireworks-hosted models when a simple answer check fails. Keyword routing, no"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Headless batch agent for AMD Developer Hackathon Track 1: answers tasks with a 4-bit Qwen 2.5 3B model on CPU, and falls back to Fireworks-hosted models when a simple answer check fails. Keyword routing, no GPU. Hackathon prototype.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060439",
+    "hash_id": "8083dc85e6b6"
+  },
+  {
+    "name": "kizouker/adaptive-IVR-agent",
+    "url": "https://github.com/kizouker/adaptive-IVR-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "kizouker/adaptive-IVR-agent A agent/model learning to interact with IVR-systems for Meta Global AI Hackathon 2026"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A agent/model learning to interact with IVR-systems for Meta Global AI Hackathon 2026",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060483",
+    "hash_id": "a6664bded421"
+  },
+  {
+    "name": "pfiecko/adsect",
+    "url": "https://github.com/pfiecko/adsect",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "pfiecko/adsect Adsect: which parts of your Meta ads drive purchases, proven with controlled tests. Built for the Meta AI Developer"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Adsect: which parts of your Meta ads drive purchases, proven with controlled tests. Built for the Meta AI Developer Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060522",
+    "hash_id": "276eabf5236b"
+  },
+  {
+    "name": "nikunjtrehan/remnant-x",
+    "url": "https://github.com/nikunjtrehan/remnant-x",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "jtrehan/remnant-x Photo-to-cutting-plan workbench: Meta SAM 3.1, reviewed remnant inventory, hole-aware nesting and software-verified CNC output."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Photo-to-cutting-plan workbench: Meta SAM 3.1, reviewed remnant inventory, hole-aware nesting and software-verified CNC output.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060550",
+    "hash_id": "785b20b9bf06"
+  },
+  {
+    "name": "nikolareljin/orphan-parts",
+    "url": "https://github.com/nikolareljin/orphan-parts",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "nikolareljin/orphan-parts Scan what you own, decide what it can become, find the missing piece on Marketp"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Scan what you own, decide what it can become, find the missing piece on Marketplace, or prepare what you let go. Private inventory, evidence-backed answers, Meta Model API. Meta Global AI Developer Hackathon entry.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060570",
+    "hash_id": "7c079c92e98d"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-03T14:57:56.060585",
+    "hash_id": "e3e6fd89e54d"
+  }
+]
