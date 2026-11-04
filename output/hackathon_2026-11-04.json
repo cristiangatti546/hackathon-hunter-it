@@ -1,0 +1,344 @@
+[
+  {
+    "name": "andreseloysv/Tirith",
+    "url": "https://github.com/andreseloysv/Tirith",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ecks, and a chat that asks you only what only you can decide. macOS app + web UI. Built with Muse Spark and Muse Code."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An autonomous manager for your coding agents: a plan they must follow, rules enforced in code, merges that pass checks, and a chat that asks you only what only you can decide. macOS app + web UI. Built with Muse Spark and Muse Code.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860288",
+    "hash_id": "ed4ebbb2f2c0"
+  },
+  {
+    "name": "bami-codes/BenchMate",
+    "url": "https://github.com/bami-codes/BenchMate",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "bami-codes/BenchMate Muse Spark chooses experiments on a real Arduino circuit. Frozen models are checked against measurements; sealed records and offline verifica",
+      "bami-codes/BenchMate Muse Spark chooses experiments on a real Arduino circuit. Frozen models are checked against measurements; s"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Muse Spark chooses experiments on a real Arduino circuit. Frozen models are checked against measurements; sealed records and offline verification expose each step.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860344",
+    "hash_id": "2413bfbb0756"
+  },
+  {
+    "name": "AnAsteria/Apertus_Hack",
+    "url": "https://github.com/AnAsteria/Apertus_Hack",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AnAsteria/Apertus_Hack Team Solution for Bern Economic Development Agency Research & Expertise Navigator"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Team Solution for Bern Economic Development Agency Research & Expertise Navigator",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860364",
+    "hash_id": "9bc910072e75"
+  },
+  {
+    "name": "Dhruv-Deku/inkubit",
+    "url": "https://github.com/Dhruv-Deku/inkubit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Dhruv-Deku/inkubit An AI quantum engineer that proves its work: Muse Spark, Muse Wonder, SAM 3.1, Muse Image and Muse Voice plan it; exact physics checks every number. Qua"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An AI quantum engineer that proves its work: Muse Spark, Muse Wonder, SAM 3.1, Muse Image and Muse Voice plan it; exact physics checks every number. Quantum internet on a 3D Earth, lecture checker, discovery lab, real IBM runs.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860387",
+    "hash_id": "b2b287cb873c"
+  },
+  {
+    "name": "Narubyx/voxel-sam-ar",
+    "url": "https://github.com/Narubyx/voxel-sam-ar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Narubyx/voxel-sam-ar Phone video to true-scale WebAR twin: SAM segmentation (Modal) + Muse Spark Open geometry (Baseten)",
+      "Narubyx/voxel-sam-ar Phone video to true-scale WebAR twin: SAM segmentation (Modal) + Muse Spark Open"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Phone video to true-scale WebAR twin: SAM segmentation (Modal) + Muse Spark Open geometry (Baseten) + agentic watertight mesh loop. Meta Global AI Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860419",
+    "hash_id": "7a2692b6ffd3"
+  },
+  {
+    "name": "nikolareljin/orphan-parts",
+    "url": "https://github.com/nikolareljin/orphan-parts",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "nikolareljin/orphan-parts Scan what you own, decide what it can become, find the missing piece on Marketp"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Scan what you own, decide what it can become, find the missing piece on Marketplace, or prepare what you let go. Meta Model API. Meta Global AI Developer Hackathon entry. Live demo (temporary): orphan-parts.pages.dev",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860443",
+    "hash_id": "71d358b87de6"
+  },
+  {
+    "name": "cpu-16/verified-asset",
+    "url": "https://github.com/cpu-16/verified-asset",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "cpu-16/verified-asset Evidence reports for second-hand furniture listings: which of the seller's cla",
+      "reports for second-hand furniture listings: which of the seller's claims the photos back up. Muse Spark observes blind, fixed rules decide."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence reports for second-hand furniture listings: which of the seller's claims the photos back up. Muse Spark observes blind, fixed rules decide.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860478",
+    "hash_id": "7168f3caee34"
+  },
+  {
+    "name": "wellytg/meta-hackathon-shadowfenced",
+    "url": "https://github.com/wellytg/meta-hackathon-shadowfenced",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ks keys, swaps personal data for placeholders, checks files and coding agents. Muse Glimmer on your GPU, Muse Spark in the cloud.",
+      "wellytg/meta-hackathon-shadowfenced A zero-trust guard between you and any AI: blocks keys, swaps personal data for placeholders, checks files and codi"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A zero-trust guard between you and any AI: blocks keys, swaps personal data for placeholders, checks files and coding agents. Muse Glimmer on your GPU, Muse Spark in the cloud.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860511",
+    "hash_id": "4c2c50275ff7"
+  },
+  {
+    "name": "nikunjtrehan/remnant-x",
+    "url": "https://github.com/nikunjtrehan/remnant-x",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "jtrehan/remnant-x Photo-to-cutting-plan workbench: Meta SAM 3.1, reviewed remnant inventory, hole-aware nesting and software-verified CNC output."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Photo-to-cutting-plan workbench: Meta SAM 3.1, reviewed remnant inventory, hole-aware nesting and software-verified CNC output.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860530",
+    "hash_id": "195223ac80d4"
+  },
+  {
+    "name": "Gi-Tuu/yai-scout",
+    "url": "https://github.com/Gi-Tuu/yai-scout",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Gi-Tuu/yai-scout YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860546",
+    "hash_id": "4076a4d543cf"
+  },
+  {
+    "name": "Sriharsan/relayloom",
+    "url": "https://github.com/Sriharsan/relayloom",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "the paperwork. Muse Glimmer reads the bill, SAM 3.1 counts what arrived. Meta open weights, on one laptop.",
+      "Sriharsan/relayloom Autonomous accounts payable that checks the goods, not just the paperwork. Muse Glim"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Autonomous accounts payable that checks the goods, not just the paperwork. Muse Glimmer reads the bill, SAM 3.1 counts what arrived. Meta open weights, on one laptop.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860565",
+    "hash_id": "1e022f0f123b"
+  },
+  {
+    "name": "ngweibin050-dev/aether",
+    "url": "https://github.com/ngweibin050-dev/aether",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Spark, Voice Transcribe, Image & Wonder, SAM 3.1) with wave-optics simulation for 1D/2D holographic displays.",
+      "on workbench. Converts 2D engineering drawings into interactive 3D assemblies using Meta AI (Muse Spark, Voice Transcribe, Image & Wonder, SAM 3.1) with wave-optics simulation for 1D/2D holographic di"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI-powered mechanical reconstruction and holographic simulation workbench. Converts 2D engineering drawings into interactive 3D assemblies using Meta AI (Muse Spark, Voice Transcribe, Image & Wonder, SAM 3.1) with wave-optics simulation for 1D/2D holographic displays.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860590",
+    "hash_id": "9ad1975b9cb3"
+  },
+  {
+    "name": "chuang39/admiry-agent",
+    "url": "https://github.com/chuang39/admiry-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "chuang39/admiry-agent Admiry's marketing agent on Meta's Muse: turns a local trade's job photos into Google-ready image ads and copy"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Admiry's marketing agent on Meta's Muse: turns a local trade's job photos into Google-ready image ads and copy, checks every claim against the owner's facts and every image against Google policy, then creates the Google Ads campaign live, paused so nothing spends.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860629",
+    "hash_id": "018da5a770e1"
+  },
+  {
+    "name": "lleoparden/naqsh",
+    "url": "https://github.com/lleoparden/naqsh",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lleoparden/naqsh Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Arabic-first visual localizer: images to editable, translated, RTL-typeset layers. Meta Global AI Developer Hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-04T15:19:00.860646",
+    "hash_id": "367bf317411f"
+  }
+]
