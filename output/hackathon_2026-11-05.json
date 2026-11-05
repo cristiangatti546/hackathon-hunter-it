@@ -1,0 +1,266 @@
+[
+  {
+    "name": "ArielleTolome/everytown-oci",
+    "url": "https://github.com/ArielleTolome/everytown-oci",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ArielleTolome/everytown-oci OCI Capacity Coach for Everytown's Community Safety Fund: live demo at t"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "OCI Capacity Coach for Everytown's Community Safety Fund: live demo at the link (demo/demo, staff/staff). Deterministic scoring + Claude on Amazon Bedrock. AWS Breaking Barriers 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729753",
+    "hash_id": "e99e52ebd452"
+  },
+  {
+    "name": "cptlight/shennong",
+    "url": "https://github.com/cptlight/shennong",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "en-weights classical-Asian-medicine language model and first-principles discovery engine for ethnopharmacology. EthnoHack 2026, track 01."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "神农 SHENNONG — a <1 GB open-weights classical-Asian-medicine language model and first-principles discovery engine for ethnopharmacology. EthnoHack 2026, track 01.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729827",
+    "hash_id": "d17f4d3b2c70"
+  },
+  {
+    "name": "andreseloysv/Tirith",
+    "url": "https://github.com/andreseloysv/Tirith",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ecks, and a chat that asks you only what only you can decide. macOS app + web UI. Built with Muse Spark and Muse Code."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An autonomous manager for your coding agents: a plan they must follow, rules enforced in code, merges that pass checks, and a chat that asks you only what only you can decide. macOS app + web UI. Built with Muse Spark and Muse Code.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729847",
+    "hash_id": "ad93af85dfb8"
+  },
+  {
+    "name": "Gi-Tuu/yai-scout",
+    "url": "https://github.com/Gi-Tuu/yai-scout",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Gi-Tuu/yai-scout YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "YAI Scout: evidence-first research agent + freshness-aware agent benchmark (Bifrost-02 / Tavily-01)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729911",
+    "hash_id": "c38641b757b2"
+  },
+  {
+    "name": "Hantsuo/near-agent-wallet",
+    "url": "https://github.com/Hantsuo/near-agent-wallet",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Hantsuo/near-agent-wallet An agent that holds a NEAR wallet and still cannot drain it: policy engine, append-o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that holds a NEAR wallet and still cannot drain it: policy engine, append-only ledger, nine attacked scenarios.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729925",
+    "hash_id": "b51671b1cbd3"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729938",
+    "hash_id": "08e9082bfb12"
+  },
+  {
+    "name": "ThatoNthodi/hews-v2",
+    "url": "https://github.com/ThatoNthodi/hews-v2",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ThatoNthodi/hews-v2 Multi-agent heat early-warning system for outdoor crews: deterministic safety rules plus AI agents on Azure AI Foundry"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent heat early-warning system for outdoor crews: deterministic safety rules plus AI agents on Azure AI Foundry (GPT-5.2), with multilingual alerts and a tamper-evident audit log.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729968",
+    "hash_id": "ea1497332b1a"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.729979",
+    "hash_id": "e773f92a0b11"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.730017",
+    "hash_id": "3ced913a95ec"
+  },
+  {
+    "name": "aaronmalunga/agentguard",
+    "url": "https://github.com/aaronmalunga/agentguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aaronmalunga/agentguard AgentGuard — did the buyer actually mean this payment? Intent checks for AI-a"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AgentGuard — did the buyer actually mean this payment? Intent checks for AI-agent payments, built on PayPal (sandbox, hackathon v1).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.730050",
+    "hash_id": "a727f70d6cb8"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-05T15:19:44.730072",
+    "hash_id": "1b91cf73e68d"
+  }
+]
