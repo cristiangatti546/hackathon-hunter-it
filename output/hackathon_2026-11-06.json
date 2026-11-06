@@ -1,0 +1,413 @@
+[
+  {
+    "name": "kaustubh76/ACR---Arc-Compute-Rate",
+    "url": "https://github.com/kaustubh76/ACR---Arc-Compute-Rate",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "kaustubh76/ACR---Arc-Compute-Rate A live on-chain reference rate for machine compute on Circle's Arc — SOFR for the a"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A live on-chain reference rate for machine compute on Circle's Arc — SOFR for the agentic economy. A statistical estimator over x402 payment exhaust, EIP-712 prints posted hourly to an oracle, a cash-settled futures venue, and an autonomous agent that pays for the print and trades on it.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.365958",
+    "hash_id": "08f20f0ea923"
+  },
+  {
+    "name": "bhanu-dev82/release-room",
+    "url": "https://github.com/bhanu-dev82/release-room",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "bhanu-dev82/release-room A release desk for a one-person app studio: Switch agents triage reviews, fix bugs and review each other in Discord, with a human gate (Flip the"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A release desk for a one-person app studio: Switch agents triage reviews, fix bugs and review each other in Discord, with a human gate (Flip the Switch hackathon)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366015",
+    "hash_id": "a9a91f397758"
+  },
+  {
+    "name": "vincenzo-afk/CrewPilot",
+    "url": "https://github.com/vincenzo-afk/CrewPilot",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "vincenzo-afk/CrewPilot CrewPilot is an AI teammate for team chat. Built with Switch, it helps people and AI agents triage issues, manage tasks, and complete real workflows toget"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "CrewPilot is an AI teammate for team chat. Built with Switch, it helps people and AI agents triage issues, manage tasks, and complete real workflows together.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366037",
+    "hash_id": "d3c175429eb7"
+  },
+  {
+    "name": "ianalloway/solvent-agent",
+    "url": "https://github.com/ianalloway/solvent-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "a tiny research business: quotes each job against its own costs, collects via Stripe, fulfils with NVIDIA Nemotron, pays vendors within a spend policy, and declines unprofitable work.",
+      "ianalloway/solvent-agent Offline-first Python AI agent that runs a tiny research business: quotes each job against its own costs, collects via Stripe, fulfils with NVIDIA Nemot"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Offline-first Python AI agent that runs a tiny research business: quotes each job against its own costs, collects via Stripe, fulfils with NVIDIA Nemotron, pays vendors within a spend policy, and declines unprofitable work.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366074",
+    "hash_id": "749f8aadcca2"
+  },
+  {
+    "name": "Divyanshu-kumar14/Verdict-Pay",
+    "url": "https://github.com/Divyanshu-kumar14/Verdict-Pay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Divyanshu-kumar14/Verdict-Pay Win the dispute before the fee attaches."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Win the dispute before the fee attaches.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366088",
+    "hash_id": "e879592bc1fd"
+  },
+  {
+    "name": "ThomsMTZ/sentinelpay",
+    "url": "https://github.com/ThomsMTZ/sentinelpay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ng SaaS waste, remediates subscriptions (/cancel, /revise), intercepts webhook billing traps, and guards autonomous PayPal Orders v2 purchases."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Autonomous PayPal Treasury & Agentic Commerce Copilot. Audits recurring SaaS waste, remediates subscriptions (/cancel, /revise), intercepts webhook billing traps, and guards autonomous PayPal Orders v2 purchases.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366129",
+    "hash_id": "6ada49d632e9"
+  },
+  {
+    "name": "DrAhmed7887/vultr-agent-rush",
+    "url": "https://github.com/DrAhmed7887/vultr-agent-rush",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "DrAhmed7887/vultr-agent-rush Teach Ahmes: a child teaches a robot maths; her words become code on Vultr, run in a throwaway gVisor sandbox, graded by exact arit",
+      "s a robot maths; her words become code on Vultr, run in a throwaway gVisor sandbox, graded by exact arithmetic. Vultr Agent Rush, Challenge 1."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Teach Ahmes: a child teaches a robot maths; her words become code on Vultr, run in a throwaway gVisor sandbox, graded by exact arithmetic. Vultr Agent Rush, Challenge 1.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366154",
+    "hash_id": "384dcf6fc8cd"
+  },
+  {
+    "name": "Mohan-M04/agentbench-arena",
+    "url": "https://github.com/Mohan-M04/agentbench-arena",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Mohan-M04/agentbench-arena Enterprise-grade resilience, fault recovery, and deterministic benchmarking harness for autono"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Enterprise-grade resilience, fault recovery, and deterministic benchmarking harness for autonomous AI agents via Bifrost Gateway and Tavily API.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366196",
+    "hash_id": "762f9e180695"
+  },
+  {
+    "name": "ruslanpavliichuk/dispute-radar-paypal",
+    "url": "https://github.com/ruslanpavliichuk/dispute-radar-paypal",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ruslanpavliichuk/dispute-radar-paypal Predicts which PayPal orders will turn into disputes and acts before the buyer files. Cali"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Predicts which PayPal orders will turn into disputes and acts before the buyer files. Calibrated LIghtGBM models with SHAP explanations, PayPal Agent Toolkit actions, and an evidence-backed response when a dispute still arrives. Built for the PayPal AI Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366278",
+    "hash_id": "f9d85757a977"
+  },
+  {
+    "name": "jenniferevangelista-de/shield-for-data",
+    "url": "https://github.com/jenniferevangelista-de/shield-for-data",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "angelista-de/shield-for-data Shield: a human-in-the-loop data quality agent for team chat, built on Switch (business-date gate, Great Expectations, OpenMetadata adapter, local Gemma)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Shield: a human-in-the-loop data quality agent for team chat, built on Switch (business-date gate, Great Expectations, OpenMetadata adapter, local Gemma)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366297",
+    "hash_id": "898c55519135"
+  },
+  {
+    "name": "ANMOLGUPTA-24/closeout",
+    "url": "https://github.com/ANMOLGUPTA-24/closeout",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "unit is accounted for and evidenced - built on Switch, where each consignee gets a room the registrar cannot read.",
+      "rtion. An agent that holds a recall open until every unit is accounted for and evidenced - built on Switch, where each consignee gets a room the registrar cannot read."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A product recall is closed by reconciliation, never by assertion. An agent that holds a recall open until every unit is accounted for and evidenced - built on Switch, where each consignee gets a room the registrar cannot read.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366321",
+    "hash_id": "6e4ea6ed8e53"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366339",
+    "hash_id": "1b5b9b96e9ec"
+  },
+  {
+    "name": "cptlight/shennong",
+    "url": "https://github.com/cptlight/shennong",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "en-weights classical-Asian-medicine language model and first-principles discovery engine for ethnopharmacology. EthnoHack 2026, track 01."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "神农 SHENNONG — a <1 GB open-weights classical-Asian-medicine language model and first-principles discovery engine for ethnopharmacology. EthnoHack 2026, track 01.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366363",
+    "hash_id": "27756bacdf85"
+  },
+  {
+    "name": "YashThokal777/maintainer-desk",
+    "url": "https://github.com/YashThokal777/maintainer-desk",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "eammates that triage issues and review PRs in team chat, with a human yes on every change. Built on Switch."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI teammates that triage issues and review PRs in team chat, with a human yes on every change. Built on Switch.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366378",
+    "hash_id": "d399ee24f3d7"
+  },
+  {
+    "name": "eshaanvgupta/aegis-counterfactual",
+    "url": "https://github.com/eshaanvgupta/aegis-counterfactual",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "eshaanvgupta/aegis-counterfactual Counterfactual security and invariant-enforced payment authorization for AI agents on NEAR."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Counterfactual security and invariant-enforced payment authorization for AI agents on NEAR.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366393",
+    "hash_id": "0e6ab33eae78"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366414",
+    "hash_id": "7c6171fb1770"
+  },
+  {
+    "name": "charansai-1411/WithCare",
+    "url": "https://github.com/charansai-1411/WithCare",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "charansai-1411/WithCare Multi-agent AI healthcare-navigation assistant for Indian families — find care"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI healthcare-navigation assistant for Indian families — find care, check schemes, read documents, set reminders, and book appointments, safely. Built on Google Cloud & Gemini.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-06T14:55:29.366437",
+    "hash_id": "6f975790cbd3"
+  }
+]
