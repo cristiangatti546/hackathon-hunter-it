@@ -1,0 +1,344 @@
+[
+  {
+    "name": "somyacodes07/agency-in-a-room",
+    "url": "https://github.com/somyacodes07/agency-in-a-room",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "somyacodes07/agency-in-a-room A client request walks into a chat room: five AI agents scope, price and risk-check it, and only you can approv",
+      "alks into a chat room: five AI agents scope, price and risk-check it, and only you can approve. One Switch template."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A client request walks into a chat room: five AI agents scope, price and risk-check it, and only you can approve. One Switch template.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696141",
+    "hash_id": "351b50412421"
+  },
+  {
+    "name": "YashThokal777/maintainer-desk",
+    "url": "https://github.com/YashThokal777/maintainer-desk",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "eammates that triage issues and review PRs in team chat, with a human yes on every change. Built on Switch."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI teammates that triage issues and review PRs in team chat, with a human yes on every change. Built on Switch.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696179",
+    "hash_id": "ca0071165eae"
+  },
+  {
+    "name": "gowtham66867/patchroom",
+    "url": "https://github.com/gowtham66867/patchroom",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "gowtham66867/patchroom Switch-powered bug reproduction, candidate patches and independent verification with durable evidenc"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Switch-powered bug reproduction, candidate patches and independent verification with durable evidence.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696192",
+    "hash_id": "55dd0d44336e"
+  },
+  {
+    "name": "NSEVEjk0/releaseroom-switch",
+    "url": "https://github.com/NSEVEjk0/releaseroom-switch",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "NSEVEjk0/releaseroom-switch ReleaseRoom turns a team chat request into checked webpage content, with human approval tied to the exact revision.",
+      "NSEVEjk0/releaseroom-switch ReleaseRoom turns a team chat request into checked webpage content, with human approval tied"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "ReleaseRoom turns a team chat request into checked webpage content, with human approval tied to the exact revision.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696207",
+    "hash_id": "798d87cbfc13"
+  },
+  {
+    "name": "singha105/leasedesk",
+    "url": "https://github.com/singha105/leasedesk",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "singha105/leasedesk Just-in-time AWS access desk in a Switch room: AI drafts and critiques, a named human approves, IAM expires the lease itself. WeMakeDe"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Just-in-time AWS access desk in a Switch room: AI drafts and critiques, a named human approves, IAM expires the lease itself. WeMakeDevs Flip the Switch 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696221",
+    "hash_id": "446638221df9"
+  },
+  {
+    "name": "PedroYellow/morabanc-hackathon",
+    "url": "https://github.com/PedroYellow/morabanc-hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PedroYellow/morabanc-hackathon Motor de decisiones financieras para autonomos y pymes de Andorra — ¿puedo permitirmelo? IA (Bedrock) + fiscalidad andorrana verifica"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Motor de decisiones financieras para autonomos y pymes de Andorra — ¿puedo permitirmelo? IA (Bedrock) + fiscalidad andorrana verificada en codigo determinista.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696245",
+    "hash_id": "43fedaf01ca4"
+  },
+  {
+    "name": "aaronmalunga/agentguard",
+    "url": "https://github.com/aaronmalunga/agentguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aaronmalunga/agentguard AgentGuard — did the buyer actually mean this payment? Intent checks for AI-a"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AgentGuard — did the buyer actually mean this payment? Intent checks for AI-agent payments, built on PayPal (sandbox, hackathon v1).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696262",
+    "hash_id": "4e7fe1e225e1"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696299",
+    "hash_id": "484eefc2cb29"
+  },
+  {
+    "name": "an10m/uzex-chatbot-from-hackathon-saralash",
+    "url": "https://github.com/an10m/uzex-chatbot-from-hackathon-saralash",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "an10m/uzex-chatbot-from-hackathon-saralash Grounded bilingual Telegram bot for UZEX AI Hackathon 2026 — 500,000 synthetic exchange deals, read-only SQL, visible source",
+      "an10m/uzex-chatbot-from-hackathon-saralash Grounded bilingual Telegram bot for UZEX AI Hackathon 2026 — 500,000 synthetic exchange deal"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Grounded bilingual Telegram bot for UZEX AI Hackathon 2026 — 500,000 synthetic exchange deals, read-only SQL, visible sources",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696319",
+    "hash_id": "ea377c799d6b"
+  },
+  {
+    "name": "cptlight/shennong",
+    "url": "https://github.com/cptlight/shennong",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "en-weights classical-Asian-medicine language model and first-principles discovery engine for ethnopharmacology. EthnoHack 2026, track 01."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "神农 SHENNONG — a <1 GB open-weights classical-Asian-medicine language model and first-principles discovery engine for ethnopharmacology. EthnoHack 2026, track 01.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696337",
+    "hash_id": "3c6ad2047876"
+  },
+  {
+    "name": "HassanHassnain/callback",
+    "url": "https://github.com/HassanHassnain/callback",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "desk with a gate for identity changes: agent actions run in a disposable gVisor twin on Vultr; only device-signed, executor-verified effects reach production."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI IT help desk with a gate for identity changes: agent actions run in a disposable gVisor twin on Vultr; only device-signed, executor-verified effects reach production.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696371",
+    "hash_id": "db4068c4cf57"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696397",
+    "hash_id": "af8916bc7f52"
+  },
+  {
+    "name": "oulael-laabi/budgetroom",
+    "url": "https://github.com/oulael-laabi/budgetroom",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "lael-laabi/budgetroom AI budgeting coach that lives in your chat room, built on Switch. Students & parents text their spending; a tested Python engine does all the math (MAD/EUR/USD).",
+      "oulael-laabi/budgetroom AI budgeting coach that lives in your chat room, built on Switch. Students & parents text their spending; a tested Python engine does all the math (MAD/EUR/US"
+    ],
+    "prizes_cash": [
+      "n Switch. Students & parents text their spending; a tested Python engine does all the math (MAD/EUR/USD)."
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI budgeting coach that lives in your chat room, built on Switch. Students & parents text their spending; a tested Python engine does all the math (MAD/EUR/USD).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696413",
+    "hash_id": "0222da234704"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-07T13:52:25.696425",
+    "hash_id": "f3b67823ba4b"
+  }
+]
