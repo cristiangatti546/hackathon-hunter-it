@@ -1,0 +1,364 @@
+[
+  {
+    "name": "aaronmalunga/agentguard",
+    "url": "https://github.com/aaronmalunga/agentguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aaronmalunga/agentguard AgentGuard — did the buyer actually mean this payment? Intent checks for AI-a"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AgentGuard — did the buyer actually mean this payment? Intent checks for AI-agent payments, built on PayPal (sandbox, hackathon v1).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406560",
+    "hash_id": "32d84e63dbd8"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406611",
+    "hash_id": "7f1e478106ac"
+  },
+  {
+    "name": "CalliH2026/app",
+    "url": "https://github.com/CalliH2026/app",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "CalliH2026/app Calli: an assistant that anticipates useful work. Holo 4 computer use and tools, New Pronote, Gladia, Linkup and Devin. H Company x 42AI hackathon."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Calli: an assistant that anticipates useful work. Holo 4 computer use and tools, New Pronote, Gladia, Linkup and Devin. H Company x 42AI hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406650",
+    "hash_id": "c3c6f76962c1"
+  },
+  {
+    "name": "Sujal-cyber11/trustlens-ai",
+    "url": "https://github.com/Sujal-cyber11/trustlens-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Sujal-cyber11/trustlens-ai Windows and browser guardian that spots scams in copied text, notifications, screenshots and web pages, and explains them"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Windows and browser guardian that spots scams in copied text, notifications, screenshots and web pages, and explains them in plain English or Hindi. Hackathon prototype.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406671",
+    "hash_id": "1a70c331ad5f"
+  },
+  {
+    "name": "CarolDsillva/follow-the-money",
+    "url": "https://github.com/CarolDsillva/follow-the-money",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "CarolDsillva/follow-the-money AI agents that investigate suspicious supplier payments before the paym"
+    ],
+    "prizes_cash": [
+      "CarolDsillva/follow-the-money AI agents that investigate suspicious supplier payments before the payment run. Built on Vultr"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agents that investigate suspicious supplier payments before the payment run. Built on Vultr for Agent Rush.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406714",
+    "hash_id": "312faa0bcbab"
+  },
+  {
+    "name": "aaronpiipponen/sinceai-dna",
+    "url": "https://github.com/aaronpiipponen/sinceai-dna",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aaronpiipponen/sinceai-dna Since AI hackathon submission: Consent-aware security assistant — one acti"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Since AI hackathon submission: Consent-aware security assistant — one action, one reason and a handoff to a human when the risk calls for it.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406741",
+    "hash_id": "b7c0fb7bd9eb"
+  },
+  {
+    "name": "juliarzymowska/HearWeGoKrk",
+    "url": "https://github.com/juliarzymowska/HearWeGoKrk",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "juliarzymowska/HearWeGoKrk A voice assistant for public transport in Kraków created for HackYeah2026 hac"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A voice assistant for public transport in Kraków created for HackYeah2026 hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406758",
+    "hash_id": "8667e7bfe810"
+  },
+  {
+    "name": "ThomsMTZ/sentinelpay",
+    "url": "https://github.com/ThomsMTZ/sentinelpay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ng SaaS waste, remediates subscriptions (/cancel, /revise), intercepts webhook billing traps, and guards autonomous PayPal Orders v2 purchases."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Autonomous PayPal Treasury & Agentic Commerce Copilot. Audits recurring SaaS waste, remediates subscriptions (/cancel, /revise), intercepts webhook billing traps, and guards autonomous PayPal Orders v2 purchases.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406783",
+    "hash_id": "9a0bd586b54a"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406805",
+    "hash_id": "4cf49f580169"
+  },
+  {
+    "name": "eren-unluturk/open-cosmos",
+    "url": "https://github.com/eren-unluturk/open-cosmos",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "eren-unluturk/open-cosmos A free, kid-safe, multilingual guide to open learning resources for ages 5-13. Safety-tiered, grown-up gate, guided lessons and coding problems in"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A free, kid-safe, multilingual guide to open learning resources for ages 5-13. Safety-tiered, grown-up gate, guided lessons and coding problems in English, Spanish, Arabic, Hindi and Portuguese. No accounts, no tracking, accessible by design. - Our Boston University Hackcessability 2026 project (Kappa Theta Pi x CDS StuGov x BUCyS)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406833",
+    "hash_id": "1d313abee578"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406886",
+    "hash_id": "d7fefde3ff47"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406902",
+    "hash_id": "01503c291931"
+  },
+  {
+    "name": "mukeshkbj/physsandbox",
+    "url": "https://github.com/mukeshkbj/physsandbox",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "science code: a physics troubleshooter whose code runs sealed in gVisor on Vultr, with a signed lab notebook"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A glovebox for AI-written science code: a physics troubleshooter whose code runs sealed in gVisor on Vultr, with a signed lab notebook",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406920",
+    "hash_id": "336585691cec"
+  },
+  {
+    "name": "Prashant-thakur77/AccessCast",
+    "url": "https://github.com/Prashant-thakur77/AccessCast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One video, made for every viewer: audio description (with extended description), captions with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406963",
+    "hash_id": "5bdbe9846e97"
+  },
+  {
+    "name": "sunggatalimbetov/reflex",
+    "url": "https://github.com/sunggatalimbetov/reflex",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "mbetov/reflex Personal assistant that does real work for you in a browser — chat on the web or Telegram, and Reflex signs in, shops, books and follows up."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Personal assistant that does real work for you in a browser — chat on the web or Telegram, and Reflex signs in, shops, books and follows up.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-08T14:12:59.406986",
+    "hash_id": "d1b43666c423"
+  }
+]
