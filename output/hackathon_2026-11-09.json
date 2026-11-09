@@ -1,0 +1,268 @@
+[
+  {
+    "name": "syedafnan7-lab/verisight",
+    "url": "https://github.com/syedafnan7-lab/verisight",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "erisight VeriSight - Multi-Layer Digital Screenshot Forensics & Tamper Detection Platform (HackStellar Problem Statement 12)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "VeriSight - Multi-Layer Digital Screenshot Forensics & Tamper Detection Platform (HackStellar Problem Statement 12)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937536",
+    "hash_id": "56e3d24ef426"
+  },
+  {
+    "name": "Trish7891/handoff-escrow",
+    "url": "https://github.com/Trish7891/handoff-escrow",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "sh7891/handoff-escrow Escrow and proof-of-work settlement for agent labour — hash-chained ledger, NEAR contract, offline proof report"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Escrow and proof-of-work settlement for agent labour — hash-chained ledger, NEAR contract, offline proof report",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937630",
+    "hash_id": "f490db22d347"
+  },
+  {
+    "name": "HumanoidAppLab/GDG-Hackathon",
+    "url": "https://github.com/HumanoidAppLab/GDG-Hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "HumanoidAppLab/GDG-Hackathon Google Developers Group Windsor Build with AI Hackathon Starter Project"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Google Developers Group Windsor Build with AI Hackathon Starter Project",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937650",
+    "hash_id": "f58bec83c6cc"
+  },
+  {
+    "name": "Neonat/gordon-RAMsay",
+    "url": "https://github.com/Neonat/gordon-RAMsay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Neonat/gordon-RAMsay Hackomania 2025 AI kitchen prototype for food-image recognition and recipe suggestions."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Hackomania 2025 AI kitchen prototype for food-image recognition and recipe suggestions.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937680",
+    "hash_id": "5dc5bd9caeb3"
+  },
+  {
+    "name": "hammy229/tink",
+    "url": "https://github.com/hammy229/tink",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "speaks what each means in their own banked voice. voc2vec in the browser with ONNX, plus a FastAPI server.",
+      "hammy229/tink Learns the few sounds a person losing speech to ALS can still make, and speaks what each means in thei"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Learns the few sounds a person losing speech to ALS can still make, and speaks what each means in their own banked voice. voc2vec in the browser with ONNX, plus a FastAPI server.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937705",
+    "hash_id": "97b794c295ba"
+  },
+  {
+    "name": "mikailustuner/janus",
+    "url": "https://github.com/mikailustuner/janus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "uner/janus Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+      "cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937725",
+    "hash_id": "fcd50793ee47"
+  },
+  {
+    "name": "DiyorbekImomaliyev/doorstep",
+    "url": "https://github.com/DiyorbekImomaliyev/doorstep",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ent for small PayPal sellers: proves possession, settles refunds fairly through PayPal, drafts the carrier claim."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI delivery agent for small PayPal sellers: proves possession, settles refunds fairly through PayPal, drafts the carrier claim.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937811",
+    "hash_id": "2b69b2cfa89c"
+  },
+  {
+    "name": "Deveshwar123/HowdyHackathon",
+    "url": "https://github.com/Deveshwar123/HowdyHackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Deveshwar123/HowdyHackathon TideCast: measure a fish from one photo with a vision model that runs in the br"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "TideCast: measure a fish from one photo with a vision model that runs in the browser, climb the leaderboard, and explore fish and fishing activity on a 3D globe. Built at Howdy Hack 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937834",
+    "hash_id": "c81074a20a4a"
+  },
+  {
+    "name": "Guruzeta/talk-to-your-experiment",
+    "url": "https://github.com/Guruzeta/talk-to-your-experiment",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Guruzeta/talk-to-your-experiment Voice research partner: ask your experiment out loud; it runs real analysis in Daytona and explains on a live"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Voice research partner: ask your experiment out loud; it runs real analysis in Daytona and explains on a live whiteboard. Built with ElevenLabs Agents.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937867",
+    "hash_id": "9aa58ecac0a7"
+  },
+  {
+    "name": "YADUNANDAN-SINGH/Veracity",
+    "url": "https://github.com/YADUNANDAN-SINGH/Veracity",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "YADUNANDAN-SINGH/Veracity Live AI-voice & scam-call detection for normal phone calls."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Live AI-voice & scam-call detection for normal phone calls.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937881",
+    "hash_id": "a744d9c1f0d6"
+  },
+  {
+    "name": "dayan-ai/ares-accord",
+    "url": "https://github.com/dayan-ai/ares-accord",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "dayan-ai/ares-accord LLM agents negotiating inside a deterministic, verifiable protocol: a Mars-colony crisis"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "LLM agents negotiating inside a deterministic, verifiable protocol: a Mars-colony crisis simulator with a validator-gated approval step. Built for the Loopverse Challenge, designed by LIFIX Labs.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-09T17:22:26.937915",
+    "hash_id": "2fd53fda9539"
+  }
+]
