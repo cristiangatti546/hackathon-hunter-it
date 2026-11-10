@@ -1,0 +1,317 @@
+[
+  {
+    "name": "aaronmalunga/agentguard",
+    "url": "https://github.com/aaronmalunga/agentguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aaronmalunga/agentguard AgentGuard — did the buyer actually mean this payment? Intent checks for AI-a"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AgentGuard — did the buyer actually mean this payment? Intent checks for AI-agent payments, built on PayPal (sandbox, hackathon v1).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903575",
+    "hash_id": "fc07a0ba604c"
+  },
+  {
+    "name": "burgerbibliothek/glamhack26",
+    "url": "https://github.com/burgerbibliothek/glamhack26",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "burgerbibliothek/glamhack26 Locate the Past: Geospacial metadata in Archives"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Locate the Past: Geospacial metadata in Archives",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903629",
+    "hash_id": "93650d2d27de"
+  },
+  {
+    "name": "BaptisteFaisy/near_syndicate",
+    "url": "https://github.com/BaptisteFaisy/near_syndicate",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "BaptisteFaisy/near_syndicate Syndicat d'acheteurs d'agents IA : se cotiser à plusieurs pour une commande commune sur"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Syndicat d'acheteurs d'agents IA : se cotiser à plusieurs pour une commande commune sur market.near.ai, sans tiers de confiance — hackathon NEAR, track Agent Economy",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903694",
+    "hash_id": "23a2663a25d4"
+  },
+  {
+    "name": "Haresh276/afterword",
+    "url": "https://github.com/Haresh276/afterword",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Haresh276/afterword When someone dies, their subscriptions don't. Tell every company once: signed not"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "When someone dies, their subscriptions don't. Tell every company once: signed notices their own PayPal agents verify, pause, cancel and refund. PayPal Agent Toolkit + Gemini.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903718",
+    "hash_id": "fb82222b7b8c"
+  },
+  {
+    "name": "prasad-anandappa/invoicepilot",
+    "url": "https://github.com/prasad-anandappa/invoicepilot",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "prasad-anandappa/invoicepilot AI agent that turns plain-language requests into PayPal invoices, payment links, reminders and reconciliation — PayPal AI Hackathon entry"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agent that turns plain-language requests into PayPal invoices, payment links, reminders and reconciliation — PayPal AI Hackathon entry",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903747",
+    "hash_id": "ad2204ec5a97"
+  },
+  {
+    "name": "LSUDOKO/Pharmakon",
+    "url": "https://github.com/LSUDOKO/Pharmakon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "des' Greek → probable species → compounds → targets → ranked, untested research leads. Website, MCP server, JSON API. Research hypotheses only.",
+      "LSUDOKO/Pharmakon 2,000 years of Greek plant medicine, measured: Dioscorides' Greek → probable species → compo"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "2,000 years of Greek plant medicine, measured: Dioscorides' Greek → probable species → compounds → targets → ranked, untested research leads. Website, MCP server, JSON API. Research hypotheses only.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903786",
+    "hash_id": "f4e23131f407"
+  },
+  {
+    "name": "Ian18858863/redline-referee",
+    "url": "https://github.com/Ian18858863/redline-referee",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Ian18858863/redline-referee Catch what changed in the contract they sent back. Built on Clocked Compare, Verify and Rerank. Clocked Build Challenge 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Catch what changed in the contract they sent back. Built on Clocked Compare, Verify and Rerank. Clocked Build Challenge 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903846",
+    "hash_id": "6152e40575a9"
+  },
+  {
+    "name": "Fayaz-2007/hackelie-2026",
+    "url": "https://github.com/Fayaz-2007/hackelie-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Fayaz-2007/hackelie-2026 SafeLPG AI: real-time LPG cylinder leak/flame monitoring with SMS alerts (HACKELITE 2026)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "SafeLPG AI: real-time LPG cylinder leak/flame monitoring with SMS alerts (HACKELITE 2026)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903899",
+    "hash_id": "a0505680b1f1"
+  },
+  {
+    "name": "ParthSinha9498/trustledger",
+    "url": "https://github.com/ParthSinha9498/trustledger",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ParthSinha9498/trustledger Product authenticity as a condition of payment: the brand verifies a seria"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Product authenticity as a condition of payment: the brand verifies a serial before the PayPal order exists; an AI agent investigates failures using only differentially private aggregates.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903923",
+    "hash_id": "083e4cf785f4"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903942",
+    "hash_id": "23cbc1b4f3a8"
+  },
+  {
+    "name": "7gtz/aegis-relay",
+    "url": "https://github.com/7gtz/aegis-relay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "is-relay Deterministic security analysis for multi-agent systems: trace capability composition, compare constrained responses, and verify intended workflows."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Deterministic security analysis for multi-agent systems: trace capability composition, compare constrained responses, and verify intended workflows.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903963",
+    "hash_id": "bcc5675384e8"
+  },
+  {
+    "name": "ianalloway/solvent-agent",
+    "url": "https://github.com/ianalloway/solvent-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "a tiny research business: quotes each job against its own costs, collects via Stripe, fulfils with NVIDIA Nemotron, pays vendors within a spend policy, and declines unprofitable work.",
+      "ianalloway/solvent-agent Offline-first Python AI agent that runs a tiny research business: quotes each job against its own costs, collects via Stripe, fulfils with NVIDIA Nemot"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Offline-first Python AI agent that runs a tiny research business: quotes each job against its own costs, collects via Stripe, fulfils with NVIDIA Nemotron, pays vendors within a spend policy, and declines unprofitable work.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.903991",
+    "hash_id": "68bb7a7941ce"
+  },
+  {
+    "name": "mikailustuner/janus",
+    "url": "https://github.com/mikailustuner/janus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "uner/janus Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+      "cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-10T15:30:32.904012",
+    "hash_id": "2809a9d2787d"
+  }
+]
