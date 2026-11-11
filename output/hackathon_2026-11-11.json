@@ -1,0 +1,244 @@
+[
+  {
+    "name": "narazla/TIARA",
+    "url": "https://github.com/narazla/TIARA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "narazla/TIARA Platform perawatan kognitif berbasis AI untuk lansia, caregiver, dan tenaga kesehatan."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Platform perawatan kognitif berbasis AI untuk lansia, caregiver, dan tenaga kesehatan. Check-in suara harian memantau perubahan pola bicara, asisten RAG menjawab pertanyaan demensia dari dokumen resmi Kemenkes (PNPK, Panduan Caregiver), dan IBM Bob memanggilnya lewat Langflow MCP.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438735",
+    "hash_id": "b7d5fe73677c"
+  },
+  {
+    "name": "KennyHc/hackathon-claude",
+    "url": "https://github.com/KennyHc/hackathon-claude",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "reconciliation pipeline matching ~200k bank lines to invoices. 96.71/100 on the unseen FINAL set (starter: 11.22)."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🏆 1st of 16 teams at the Talky × Anthropic hackathon: bank reconciliation pipeline matching ~200k bank lines to invoices. 96.71/100 on the unseen FINAL set (starter: 11.22).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438831",
+    "hash_id": "8ef4642005f7"
+  },
+  {
+    "name": "ParthSinha9498/trustledger",
+    "url": "https://github.com/ParthSinha9498/trustledger",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ParthSinha9498/trustledger Product authenticity as a condition of payment: the brand verifies a seria"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Product authenticity as a condition of payment: the brand verifies a serial before the PayPal order exists; an AI agent investigates failures using only differentially private aggregates.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438857",
+    "hash_id": "5e83898a15ad"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438871",
+    "hash_id": "2697356ce0c4"
+  },
+  {
+    "name": "Nicholas55555/rewindandamplifyv2",
+    "url": "https://github.com/Nicholas55555/rewindandamplifyv2",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Nicholas55555/rewindandamplifyv2 FGCU Rewind & Amplify v2: recurrent quantum models, noise-aware amplitude amplification, IBM hardware evidence, and exploratory photonics research.",
+      "lifyv2 FGCU Rewind & Amplify v2: recurrent quantum models, noise-aware amplitude amplification, IBM hardware evidence, and exploratory photonics research."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "FGCU Rewind & Amplify v2: recurrent quantum models, noise-aware amplitude amplification, IBM hardware evidence, and exploratory photonics research.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438888",
+    "hash_id": "e661c03dcbf4"
+  },
+  {
+    "name": "Brendan-Lim/Quack",
+    "url": "https://github.com/Brendan-Lim/Quack",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "n-Lim/Quack An AI maths companion for handwritten homework. Spot mistakes, get helpful hints, and learn from your corrections 🐤"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An AI maths companion for handwritten homework. Spot mistakes, get helpful hints, and learn from your corrections 🐤",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438906",
+    "hash_id": "757fa1c92e24"
+  },
+  {
+    "name": "Jp-mainieri/relay",
+    "url": "https://github.com/Jp-mainieri/relay",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Jp-mainieri/relay Relay — agente de audio ambiental para passagem de turno (hackathon)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Relay — agente de audio ambiental para passagem de turno (hackathon)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438934",
+    "hash_id": "c272112a0dc0"
+  },
+  {
+    "name": "klckerim/hear-the-game",
+    "url": "https://github.com/klckerim/hear-the-game",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "klckerim/hear-the-game Follow a football match by sound: spatial audio made on your device, plus live commentar",
+      "klckerim/hear-the-game Follow a football match by sound: spatial audio made on your device, plus live commentary in English and Turkish that Microsoft Foundry writes and a Verifier che"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Follow a football match by sound: spatial audio made on your device, plus live commentary in English and Turkish that Microsoft Foundry writes and a Verifier checks. Built for blind and partially sighted fans.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438951",
+    "hash_id": "9c9c16a79d1c"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438968",
+    "hash_id": "5672db43d0ca"
+  },
+  {
+    "name": "acgs-ai/clinicalguard",
+    "url": "https://github.com/acgs-ai/clinicalguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "acgs-ai/clinicalguard Constitutional AI governance for clinical decision support"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Constitutional AI governance for clinical decision support",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-11T15:01:09.438979",
+    "hash_id": "c42ec4b056a7"
+  }
+]
