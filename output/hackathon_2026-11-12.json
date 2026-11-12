@@ -1,0 +1,343 @@
+[
+  {
+    "name": "RajdipDhar2007/Red_Tape_Navigator",
+    "url": "https://github.com/RajdipDhar2007/Red_Tape_Navigator",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "RajdipDhar2007/Red_Tape_Navigator Red Tape Navigator by Team Onyx, built for Hack N Pitch. An agentic AI ass"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Red Tape Navigator by Team Onyx, built for Hack N Pitch. An agentic AI assistant that helps Indian citizens and small businesses navigate government bureaucracy: it finds the licences you need, checks official rules, asks only for missing details, and fills forms for your review.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466696",
+    "hash_id": "2c27d4dec17e"
+  },
+  {
+    "name": "mikailustuner/janus",
+    "url": "https://github.com/mikailustuner/janus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "uner/janus Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+      "cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466766",
+    "hash_id": "d46c46df3e43"
+  },
+  {
+    "name": "parvbansal11/lendix",
+    "url": "https://github.com/parvbansal11/lendix",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "parvbansal11/lendix A lending office run by AI agents, end to end"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A lending office run by AI agents, end to end",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466775",
+    "hash_id": "62f20660ee65"
+  },
+  {
+    "name": "Nicholas55555/rewindandamplifyv2",
+    "url": "https://github.com/Nicholas55555/rewindandamplifyv2",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Nicholas55555/rewindandamplifyv2 FGCU Rewind & Amplify v2: recurrent quantum models, noise-aware amplitude amplification, IBM hardware evidence, and exploratory photonics research.",
+      "lifyv2 FGCU Rewind & Amplify v2: recurrent quantum models, noise-aware amplitude amplification, IBM hardware evidence, and exploratory photonics research."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "FGCU Rewind & Amplify v2: recurrent quantum models, noise-aware amplitude amplification, IBM hardware evidence, and exploratory photonics research.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466797",
+    "hash_id": "a1f924c329f3"
+  },
+  {
+    "name": "chandruviswa/keicy-ai",
+    "url": "https://github.com/chandruviswa/keicy-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "chandruviswa/keicy-ai AI agents source, compare and draft purchases; a human approves; PayPal Checkout (Orders v2 Sandbox) pays and reconciles."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agents source, compare and draft purchases; a human approves; PayPal Checkout (Orders v2 Sandbox) pays and reconciles. PayPal AI Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466813",
+    "hash_id": "b60c86dc683c"
+  },
+  {
+    "name": "arth17singh/prooflab-agentic-assurance",
+    "url": "https://github.com/arth17singh/prooflab-agentic-assurance",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arth17singh/prooflab-agentic-assurance Agent assurance for telecom AI agents on Amazon Bedrock Agent"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agent assurance for telecom AI agents on Amazon Bedrock AgentCore: frozen controls (token cap, audit-log completeness, latency drift), ServiceNow human-in-the-loop, LLM Assurance Agent, sealed SHA-256 evidence pack. Top-5 finalist, TM Forum Trustworthy AI Hackathon 2026 (team project).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466832",
+    "hash_id": "42f07cf4991b"
+  },
+  {
+    "name": "arushvantore/mentor-kit",
+    "url": "https://github.com/arushvantore/mentor-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arushvantore/mentor-kit AI mentor kit: read-only college portal + Slack capture, study plans, notes,"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI mentor kit: read-only college portal + Slack capture, study plans, notes, quiz loop — hand it to any AI and say 'teach me'",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466858",
+    "hash_id": "12bdbc531186"
+  },
+  {
+    "name": "TibiGG/charge",
+    "url": "https://github.com/TibiGG/charge",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "TibiGG/charge One thing to do for each part of your day, and it always shows its working. Activity ideas from"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One thing to do for each part of your day, and it always shows its working. Activity ideas from Apple Watch data, each with a plain-English, sourced reason. Personal health data is sealed so even the developer can't read it.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466875",
+    "hash_id": "0500ae7a183a"
+  },
+  {
+    "name": "Yatsuiii/stillhere",
+    "url": "https://github.com/Yatsuiii/stillhere",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "recast the brain response with Meta's TRIBE v2, and see how forecasts did on real public scans. Research use; healthy volunteers and public data only."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Pilot the story before booking the scanner. Plan a listening study, build and check the stimulus, forecast the brain response with Meta's TRIBE v2, and see how forecasts did on real public scans. Research use; healthy volunteers and public data only.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466892",
+    "hash_id": "7b6b3d7de97b"
+  },
+  {
+    "name": "MoguchiyDuh/hmm",
+    "url": "https://github.com/MoguchiyDuh/hmm",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rm for hackathon team formation, projects, events and mentorship — FastAPI, PostgreSQL, React, Telegram bot"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Community platform for hackathon team formation, projects, events and mentorship — FastAPI, PostgreSQL, React, Telegram bot",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466911",
+    "hash_id": "7dbf1176a026"
+  },
+  {
+    "name": "DiyorbekImomaliyev/doorstep",
+    "url": "https://github.com/DiyorbekImomaliyev/doorstep",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ent for small PayPal sellers: proves possession, settles refunds fairly through PayPal, drafts the carrier claim."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI delivery agent for small PayPal sellers: proves possession, settles refunds fairly through PayPal, drafts the carrier claim.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466923",
+    "hash_id": "b93fcce2a09a"
+  },
+  {
+    "name": "Topeseun/near-intents-investment-thesis",
+    "url": "https://github.com/Topeseun/near-intents-investment-thesis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Topeseun/near-intents-investment-thesis Investment thesis valuing NEAR as a cross-chain settlement business on"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Investment thesis valuing NEAR as a cross-chain settlement business on retained Intents revenue — onchain analytics, live dashboard, re-runnable DCF model.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466944",
+    "hash_id": "91c3a96592b5"
+  },
+  {
+    "name": "LeriderTechnologies/countersign-paypal",
+    "url": "https://github.com/LeriderTechnologies/countersign-paypal",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "drafts refunds, payouts, invoices and supply orders but never moves money itself. Plain-Python boundary rules and claims checked against PayPal block prompt-injected or over-claimed requests; one huma",
+      "ain-Python boundary rules and claims checked against PayPal block prompt-injected or over-claimed requests; one human click executes a legitimate one. PayPal AI Hackathon 2026 entry."
+    ],
+    "prizes_cash": [
+      "yPal agent for small shops that drafts refunds, payouts, invoices and supply orders but never moves money itself. Plain-Python boundary rules and claims checked against PayPal block prompt-injected or"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Countersign: a PayPal agent for small shops that drafts refunds, payouts, invoices and supply orders but never moves money itself. Plain-Python boundary rules and claims checked against PayPal block prompt-injected or over-claimed requests; one human click executes a legitimate one. PayPal AI Hackathon 2026 entry.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466966",
+    "hash_id": "4ecde9f783bc"
+  },
+  {
+    "name": "anshul23102/griha",
+    "url": "https://github.com/anshul23102/griha",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "anshul23102/griha Explainable, regulator-aware mortgage underwriting engine: Home Loan and LAP decisions in milliseconds, RBI Annex I Key Facts"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Explainable, regulator-aware mortgage underwriting engine: Home Loan and LAP decisions in milliseconds, RBI Annex I Key Facts Statement (English and Hindi), replayable audit. i-Hack Hero Housing PS2. Synthetic data only.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-12T15:54:10.466980",
+    "hash_id": "e10b21a9535b"
+  }
+]
