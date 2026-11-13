@@ -1,0 +1,365 @@
+[
+  {
+    "name": "MA35STRO/Nexora-Healthtech-and-Community-Wellness",
+    "url": "https://github.com/MA35STRO/Nexora-Healthtech-and-Community-Wellness",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "MA35STRO/Nexora-Healthtech-and-Community-Wellness Kawan — AI Guardian for Independent Living. Fall & inactivity detection from the device webcam, medication remind",
+      "Community-Wellness Kawan — AI Guardian for Independent Living. Fall & inactivity detection from the device webcam, medication reminders, cited EN/BM health answers and caregiver alerts. UTP CodeFest 2"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Kawan — AI Guardian for Independent Living. Fall & inactivity detection from the device webcam, medication reminders, cited EN/BM health answers and caregiver alerts. UTP CodeFest 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794108",
+    "hash_id": "90a06e23e1f8"
+  },
+  {
+    "name": "pham-canh/pocketful-factory",
+    "url": "https://github.com/pham-canh/pocketful-factory",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "pham-canh/pocketful-factory Dark Factory (BAND x WeAreDevelopers): three coding-agent seats in one room build a wallet service to"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Dark Factory (BAND x WeAreDevelopers): three coding-agent seats in one room build a wallet service to spec, one reviews its own work and can veto it, and every figure is checked against the evidence",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794181",
+    "hash_id": "bb640c370ea8"
+  },
+  {
+    "name": "mhatipog/data-impact-graph",
+    "url": "https://github.com/mhatipog/data-impact-graph",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "-source Relate-powered impact analysis: trace column changes through data lineage to affected dashboards and business KPIs."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Open-source Relate-powered impact analysis: trace column changes through data lineage to affected dashboards and business KPIs.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794197",
+    "hash_id": "3270b455f512"
+  },
+  {
+    "name": "Kanevry/statagent-ki-challenge-2026",
+    "url": "https://github.com/Kanevry/statagent-ki-challenge-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Kanevry/statagent-ki-challenge-2026 StatAgent: KI-Agenten schlagen Regeländerungen für eine Monatsstatis"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "StatAgent: KI-Agenten schlagen Regeländerungen für eine Monatsstatistik vor, ein Mensch gibt mit Namen frei, gerechnet wird ohne KI. Beitrag zur KI Challenge 2026 (Dachverband der Sozialversicherung, WK Wien). Python, PostgreSQL, Next.js.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794218",
+    "hash_id": "73f5a7e5014f"
+  },
+  {
+    "name": "Tradoooo/sas",
+    "url": "https://github.com/Tradoooo/sas",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Tradoooo/sas Sas — homologation and controlled execution of third-party AI agents in the customer environment, sold as an MSP subscription. Amazon Bedrock AgentCore (R"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Sas — homologation and controlled execution of third-party AI agents in the customer environment, sold as an MSP subscription. Amazon Bedrock AgentCore (Runtime, Gateway, Identity, Policy, Memory, Observability). Live demo: baptistefaisy.github.io/sas",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794242",
+    "hash_id": "755a41b99380"
+  },
+  {
+    "name": "Tradoooo/galons",
+    "url": "https://github.com/Tradoooo/galons",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Tradoooo/galons Galons — AI agents earn the right to act alone, one task type at a time, by proving themselves beside engineers. Live de"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Galons — AI agents earn the right to act alone, one task type at a time, by proving themselves beside engineers. Live demo portal: baptistefaisy.github.io/galons (AWS MSP AI Hackathon 2026, Track 1)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794263",
+    "hash_id": "b3fbe281c47a"
+  },
+  {
+    "name": "Topeseun/near-intents-investment-thesis",
+    "url": "https://github.com/Topeseun/near-intents-investment-thesis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Topeseun/near-intents-investment-thesis Investment thesis valuing NEAR as a cross-chain settlement business on"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Investment thesis valuing NEAR as a cross-chain settlement business on retained Intents revenue — onchain analytics, live dashboard, re-runnable DCF model.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794291",
+    "hash_id": "ec08284b48b1"
+  },
+  {
+    "name": "thegoodengineers/qnx-porter",
+    "url": "https://github.com/thegoodengineers/qnx-porter",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "thegoodengineers/qnx-porter Agent that ports open-source C/C++ libraries to QNX 8.0, fixes build errors with reviewable patches, and proves each port with the library'"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agent that ports open-source C/C++ libraries to QNX 8.0, fixes build errors with reviewable patches, and proves each port with the library's own tests on a QNX target",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794309",
+    "hash_id": "46aa2ecc9014"
+  },
+  {
+    "name": "mikailustuner/janus",
+    "url": "https://github.com/mikailustuner/janus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "uner/janus Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+      "cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Janus: prescribing-cascade patterns from the medicine box, with a cited doctor note. Research prototype, not a medical device.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794341",
+    "hash_id": "438484d63134"
+  },
+  {
+    "name": "burgerbibliothek/glamhack26",
+    "url": "https://github.com/burgerbibliothek/glamhack26",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "burgerbibliothek/glamhack26 Locate the Past: Geospacial metadata in Archives"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Locate the Past: Geospacial metadata in Archives",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794352",
+    "hash_id": "5c2e3e15757a"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794375",
+    "hash_id": "0b5eae1ddd24"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794391",
+    "hash_id": "bfc2f66a3de1"
+  },
+  {
+    "name": "Ardelyo/halio",
+    "url": "https://github.com/Ardelyo/halio",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "o: teman cek pesan keluarga Indonesia. Cek fakta berbantuan AI dengan sumber nyata, kartu dan suara ramah lansia, serta Radar tren hoaks anonim. Purwarupa Kartika Cyber Hackathon 2026 (Siber Sosial).",
+      "Ardelyo/halio Halio: teman cek pesan keluarga Indonesia. Cek fakta berbantuan AI dengan sumber nyata"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Halio: teman cek pesan keluarga Indonesia. Cek fakta berbantuan AI dengan sumber nyata, kartu dan suara ramah lansia, serta Radar tren hoaks anonim. Purwarupa Kartika Cyber Hackathon 2026 (Siber Sosial).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794416",
+    "hash_id": "6937807b7762"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794428",
+    "hash_id": "d9b1dca7c7e1"
+  },
+  {
+    "name": "sixt-hackathon-2026/sixt-hackathon-2026",
+    "url": "https://github.com/sixt-hackathon-2026/sixt-hackathon-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "sixt-hackathon-2026/sixt-hackathon-2026 SIXT Hackathon 2026 (13 Nov): five challenges with data, starter code and setup. Build something cool together as ONE team #team_orange"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "SIXT Hackathon 2026 (13 Nov): five challenges with data, starter code and setup. Build something cool together as ONE team #team_orange",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-13T15:16:29.794441",
+    "hash_id": "33e107f183e0"
+  }
+]
