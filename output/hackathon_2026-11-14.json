@@ -1,0 +1,363 @@
+[
+  {
+    "name": "CenterDigitalTrust/MD-Confirm-RTOS",
+    "url": "https://github.com/CenterDigitalTrust/MD-Confirm-RTOS",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "CenterDigitalTrust/MD-Confirm-RTOS Tamper-evident camera-frame attestation on QNX 8.0: PRNU sensor check, timing jitter metrics, Ed25519-signed Merkle journal"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Tamper-evident camera-frame attestation on QNX 8.0: PRNU sensor check, timing jitter metrics, Ed25519-signed Merkle journal (RFC 6962), optional Solana anchor. Synthetic-frame demo in QEMU. QNX Global Hackathon entry; not affiliated with QNX.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.891840",
+    "hash_id": "e41e98e20756"
+  },
+  {
+    "name": "SmartMall-AI/be-smartmall-ai",
+    "url": "https://github.com/SmartMall-AI/be-smartmall-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "SmartMall-AI/be-smartmall-ai Backend do SmartMall AI: FastAPI, PostgreSQL e ocorrencias. Primeira impl"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Backend do SmartMall AI: FastAPI, PostgreSQL e ocorrencias. Primeira implementacao no PR #1, em revisao.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.891918",
+    "hash_id": "daa96968617f"
+  },
+  {
+    "name": "Rafael-Boaro/cofre-estoque-inteligente",
+    "url": "https://github.com/Rafael-Boaro/cofre-estoque-inteligente",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Rafael-Boaro/cofre-estoque-inteligente Sistema de controle de estoque inteligente e previsao de demanda para"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Sistema de controle de estoque inteligente e previsao de demanda para cofre refrigerado de medicamentos de alto custo",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.891956",
+    "hash_id": "2cdc6c4ac906"
+  },
+  {
+    "name": "Coder-YourAdm/AI-Gu-Farm",
+    "url": "https://github.com/Coder-YourAdm/AI-Gu-Farm",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Coder-YourAdm/AI-Gu-Farm 养蛊机：6 个 prompt 个体互出题、互解题，20 代演化出最会教的教法；判分走本地精确算术（Fraction），不用 LLM 当裁判。产物冻结成 profile，驱动一个会记住你的考研数"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "养蛊机：6 个 prompt 个体互出题、互解题，20 代演化出最会教的教法；判分走本地精确算术（Fraction），不用 LLM 当裁判。产物冻结成 profile，驱动一个会记住你的考研数学助教：BKT 掌握度 + 五级提示 + 证据链记忆，回放与实时双模式，断网可演示。",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.891983",
+    "hash_id": "e3b7e87cb51b"
+  },
+  {
+    "name": "gawbi/plugbot",
+    "url": "https://github.com/gawbi/plugbot",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "gawbi/plugbot Low-cost robot arm that learns to plug into a moving ship socket. Real-to-Real 40/40, Sim-to-Real 39/40 from",
+      "gawbi/plugbot Low-cost robot arm that learns to plug into a moving ship socket. Real-to-Real 40/40, Sim-to-Real 39/40 from an Isa"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Low-cost robot arm that learns to plug into a moving ship socket. Real-to-Real 40/40, Sim-to-Real 39/40 from an Isaac Sim twin with zero real images. Joint 2nd of 107 teams.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892004",
+    "hash_id": "ed9806292b36"
+  },
+  {
+    "name": "thegoodengineers/qnx-porter",
+    "url": "https://github.com/thegoodengineers/qnx-porter",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "thegoodengineers/qnx-porter Agent that ports open-source C/C++ libraries to QNX 8.0, fixes build errors with reviewable patches, and proves each port with the library'"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agent that ports open-source C/C++ libraries to QNX 8.0, fixes build errors with reviewable patches, and proves each port with the library's own tests on a QNX target",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892025",
+    "hash_id": "3a49e7925fa2"
+  },
+  {
+    "name": "cyberhatc/civicTech",
+    "url": "https://github.com/cyberhatc/civicTech",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "cyberhatc/civicTech JanVaani UP (जनवाणी यूपी) - voice-first, dialect-aware AI citizen assistant for Uttar Pradesh schemes, grievance redressal and DM analytics."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "JanVaani UP (जनवाणी यूपी) - voice-first, dialect-aware AI citizen assistant for Uttar Pradesh schemes, grievance redressal and DM analytics.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892059",
+    "hash_id": "76b036ad4d57"
+  },
+  {
+    "name": "MhmdAbuQutah/MarsFlex",
+    "url": "https://github.com/MhmdAbuQutah/MarsFlex",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "MhmdAbuQutah/MarsFlex NASA Space Apps 2026 · Interplanetary Survival Guide: Martian Map. A layered 3D map and scen"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "NASA Space Apps 2026 · Interplanetary Survival Guide: Martian Map. A layered 3D map and scenario planner for a human Marswalk in Jezero Crater: terrain-aware routes, science stops, time budget, radiation context, and traceable NASA/USGS evidence (CTX, HiRISE, CRISM, PIXL, MEDA, Viking).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892105",
+    "hash_id": "dca44d7eaf10"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892145",
+    "hash_id": "cd7cfaa77e78"
+  },
+  {
+    "name": "MoguchiyDuh/hmm",
+    "url": "https://github.com/MoguchiyDuh/hmm",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rm for hackathon team formation, projects, events and mentorship — FastAPI, PostgreSQL, React, Telegram bot"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Community platform for hackathon team formation, projects, events and mentorship — FastAPI, PostgreSQL, React, Telegram bot",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892166",
+    "hash_id": "95168d46d5c2"
+  },
+  {
+    "name": "mpvasilis/mva-safe-rescue",
+    "url": "https://github.com/mpvasilis/mva-safe-rescue",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ue Safety-first drug repurposing decision rule and reproducible public RNA-seq analyses for mosaic variegated aneuploidy. Entry for the 2026 MVA hackathon."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Safety-first drug repurposing decision rule and reproducible public RNA-seq analyses for mosaic variegated aneuploidy. Entry for the 2026 MVA hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892185",
+    "hash_id": "dca18a596e42"
+  },
+  {
+    "name": "EmekaManuel/nearquery",
+    "url": "https://github.com/EmekaManuel/nearquery",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "EmekaManuel/nearquery NearQuery: a data-backed, re-runnable thesis on NEAR Intents. Reads intents.near event logs,"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "NearQuery: a data-backed, re-runnable thesis on NEAR Intents. Reads intents.near event logs, computes every number with committed SQL, and publishes the dashboard. Ask the chain. Show the work.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892205",
+    "hash_id": "7593878c3e41"
+  },
+  {
+    "name": "promaaa/pigeon",
+    "url": "https://github.com/promaaa/pigeon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "promaaa/pigeon An AI keeper that finds your first customers in public posts, writes them a 280-character note, and delivers it by carrier pigeon. Built for the MAWD Start-up Hackathon, Seoul 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An AI keeper that finds your first customers in public posts, writes them a 280-character note, and delivers it by carrier pigeon. Built for the MAWD Start-up Hackathon, Seoul 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892224",
+    "hash_id": "bbf1d47e68c0"
+  },
+  {
+    "name": "Sidikov213/caspian-dispatcher",
+    "url": "https://github.com/Sidikov213/caspian-dispatcher",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "с паромом на Каспии и готовый обходной маршрут: FastAPI, CatBoost, networkx, Next.js, Flutter, Telegram. Финал хакатона Каспийского цифрового форума"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Прогноз срыва стыковки поезда с паромом на Каспии и готовый обходной маршрут: FastAPI, CatBoost, networkx, Next.js, Flutter, Telegram. Финал хакатона Каспийского цифрового форума",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892245",
+    "hash_id": "9f9e681600c0"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-14T14:02:27.892290",
+    "hash_id": "d142cccd2bbc"
+  }
+]
