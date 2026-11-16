@@ -1,0 +1,316 @@
+[
+  {
+    "name": "ALENZACODES/renewal-radar",
+    "url": "https://github.com/ALENZACODES/renewal-radar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ALENZACODES/renewal-radar Understand your mortgage renewal before you sign: offer comparison, stress test check and lender-"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Understand your mortgage renewal before you sign: offer comparison, stress test check and lender-specific prepayment penalty (IRD) calculator for Canadian homeowners.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073416",
+    "hash_id": "d484411ee01b"
+  },
+  {
+    "name": "crystalcoderz/delhi-pulse",
+    "url": "https://github.com/crystalcoderz/delhi-pulse",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "-as-probes: one month of Delhi DTC GPS into time-dependent travel times, journey planner, headway-aware waits, replay + live GTFS-RT blend."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Buses-as-probes: one month of Delhi DTC GPS into time-dependent travel times, journey planner, headway-aware waits, replay + live GTFS-RT blend.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073478",
+    "hash_id": "54eb67b7f398"
+  },
+  {
+    "name": "azmixZ/support-copilot",
+    "url": "https://github.com/azmixZ/support-copilot",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ory and priority, filters spam and duplicates, drafts replies that cite the exact rule. p95 7 ms on CPU, no external APIs."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Fully local support-ticket triage for an online game: detects language (RU/KZ/UZ/EN), category and priority, filters spam and duplicates, drafts replies that cite the exact rule. p95 7 ms on CPU, no external APIs.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073497",
+    "hash_id": "fdaa13ebbffe"
+  },
+  {
+    "name": "Andureh/QEC-Decoder-Hackathon-2026",
+    "url": "https://github.com/Andureh/QEC-Decoder-Hackathon-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "g decoder of the 2026 QEC Decoder Hackathon: exact maximum-likelihood decoding of the [[18,4,4]] qLDPC code, with a neural network as a fast filter"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Winning decoder of the 2026 QEC Decoder Hackathon: exact maximum-likelihood decoding of the [[18,4,4]] qLDPC code, with a neural network as a fast filter",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073523",
+    "hash_id": "300569426482"
+  },
+  {
+    "name": "adhipatya3552/kfsguard",
+    "url": "https://github.com/adhipatya3552/kfsguard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "adhipatya3552/kfsguard Loan-document analysis prototype: upload a KFS, get an evidence-traced independent nominal APR,"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Loan-document analysis prototype: upload a KFS, get an evidence-traced independent nominal APR, disclosure checks & EN/HI reports. Same 18% headline → 24.48% vs 18.00% from a ₹3,000 fee. FastAPI + Next.js. GIFT FutureLab 2026–27 prototype; not RBI-certified.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073549",
+    "hash_id": "31e6ee82ce29"
+  },
+  {
+    "name": "idris404/Ariane",
+    "url": "https://github.com/idris404/Ariane",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "idris404/Ariane 🏆 Ariane prépare la revue immunologique pour aider à résorber le retard, avec données synthét"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🏆 Ariane prépare la revue immunologique pour aider à résorber le retard, avec données synthétiques et validation humaine obligatoire.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073588",
+    "hash_id": "d9ec7f6884c0"
+  },
+  {
+    "name": "aaron-samuvel/udhaar-khata",
+    "url": "https://github.com/aaron-samuvel/udhaar-khata",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aaron-samuvel/udhaar-khata Serverless credit ledger (udhaar khata) for kirana stores on AWS: S3, API Gateway, Lambda, DynamoDB,",
+      "aaron-samuvel/udhaar-khata Serverless credit ledger (udhaar khata) for kirana stores on AWS: S3, API"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Serverless credit ledger (udhaar khata) for kirana stores on AWS: S3, API Gateway, Lambda, DynamoDB, EventBridge Scheduler, Step Functions",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073603",
+    "hash_id": "145f9801e4c5"
+  },
+  {
+    "name": "florianzainzinger1/cispa-hackathon-grand-finale-2026",
+    "url": "https://github.com/florianzainzinger1/cispa-hackathon-grand-finale-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "the CISPA AI & Cybersecurity Hackathon Grand Finale 2026: gradient inversion attacks on federated learning and LLM watermark localization"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "4th place at the CISPA AI & Cybersecurity Hackathon Grand Finale 2026: gradient inversion attacks on federated learning and LLM watermark localization",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073652",
+    "hash_id": "a7c3d34a9789"
+  },
+  {
+    "name": "Tauwho/GUARD",
+    "url": "https://github.com/Tauwho/GUARD",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Tauwho/GUARD Gated Unexpired Authorization for Robotic Drives. QNX Global Hackathon, Robotics and Medical category.",
+      "Tauwho/GUARD Gated Unexpired Authorization for Robotic Drives. QNX Global Hackathon, Robotics and Medical cat"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Gated Unexpired Authorization for Robotic Drives. QNX Global Hackathon, Robotics and Medical category.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073675",
+    "hash_id": "7f987210eaa5"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073709",
+    "hash_id": "b4d007d8fbdd"
+  },
+  {
+    "name": "Rafael-Boaro/cofre-estoque-inteligente",
+    "url": "https://github.com/Rafael-Boaro/cofre-estoque-inteligente",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Rafael-Boaro/cofre-estoque-inteligente Sistema de controle de estoque inteligente e previsao de demanda para"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Sistema de controle de estoque inteligente e previsao de demanda para cofre refrigerado de medicamentos de alto custo",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073725",
+    "hash_id": "60346de0c3c7"
+  },
+  {
+    "name": "danielnurm/ClientTrace",
+    "url": "https://github.com/danielnurm/ClientTrace",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "danielnurm/ClientTrace See which of a competitor's customers are switching their chat tool, with proof from their own websites"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "See which of a competitor's customers are switching their chat tool, with proof from their own websites",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073737",
+    "hash_id": "fac3acdba15e"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-16T16:54:57.073768",
+    "hash_id": "6ecd5ba83744"
+  }
+]
