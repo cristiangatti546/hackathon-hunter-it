@@ -1,0 +1,343 @@
+[
+  {
+    "name": "foxfordkz-cyber/qadamxbcc",
+    "url": "https://github.com/foxfordkz-cyber/qadamxbcc",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "redit (ITU Hackathon 2026): behavioral and graph risk scoring with adaptive cooling-off instead of hard blocks on money transfers."
+    ],
+    "prizes_cash": [
+      "kathon 2026): behavioral and graph risk scoring with adaptive cooling-off instead of hard blocks on money transfers."
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Real-time antifraud MVP for Bank CenterCredit (ITU Hackathon 2026): behavioral and graph risk scoring with adaptive cooling-off instead of hard blocks on money transfers.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.573821",
+    "hash_id": "8807dc7b9d3b"
+  },
+  {
+    "name": "rupeshbharambe24/labmate-backend",
+    "url": "https://github.com/rupeshbharambe24/labmate-backend",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rupeshbharambe24/labmate-backend FastAPI backend for LabMate AI (Build with MeDo Hackathon 2026): Socratic 'D",
+      "rupeshbharambe24/labmate-backend FastAPI backend for LabMate AI (Build with MeDo Hackathon 2026): Socratic '"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "FastAPI backend for LabMate AI (Build with MeDo Hackathon 2026): Socratic 'Dr. Ada' lab-instrument tutor using Llama 3.3 70B via OpenRouter with progressive hints and troubleshooting mode, plus progress and audit endpoints, served to a MeDo frontend as a custom plugin. Deploys to Render.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.573889",
+    "hash_id": "10e17fa5ab35"
+  },
+  {
+    "name": "Aditya74747/lorawan-gateway-planner",
+    "url": "https://github.com/Aditya74747/lorawan-gateway-planner",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ditya74747/lorawan-gateway-planner 3D digital twin that finds the fewest LoRaWAN gateway sites to hear every water meter in Heilbronn · Future City Hackathon 2026 · Team Odyssey"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "3D digital twin that finds the fewest LoRaWAN gateway sites to hear every water meter in Heilbronn · Future City Hackathon 2026 · Team Odyssey",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.573911",
+    "hash_id": "862279d281cd"
+  },
+  {
+    "name": "MSAbhishek22/notevault-bharat",
+    "url": "https://github.com/MSAbhishek22/notevault-bharat",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "MSAbhishek22/notevault-bharat NoteVault Bharat — a typed ask-desk for your notes, built for BharatCode; the public demo runs"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "NoteVault Bharat — a typed ask-desk for your notes, built for BharatCode; the public demo runs in badged mock mode.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.573930",
+    "hash_id": "348b00bb9a03"
+  },
+  {
+    "name": "alzz-26/BRB-Doppel",
+    "url": "https://github.com/alzz-26/BRB-Doppel",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "isn’t. Personal AI stand-ins with bounded authority that attend meetings, log every promise, and learn from your ✅ and ❌. Built on Switch and Wispr for Flip the Switch Hackathon",
+      "th bounded authority that attend meetings, log every promise, and learn from your ✅ and ❌. Built on Switch and Wispr for Flip the Switch Hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "You’re away. Your Doppel isn’t. Personal AI stand-ins with bounded authority that attend meetings, log every promise, and learn from your ✅ and ❌. Built on Switch and Wispr for Flip the Switch Hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.573952",
+    "hash_id": "5a29394bfa2b"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.573998",
+    "hash_id": "326f80cdb63e"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574039",
+    "hash_id": "5f87887734b7"
+  },
+  {
+    "name": "Sudheer-029/FixVision",
+    "url": "https://github.com/Sudheer-029/FixVision",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Sudheer-029/FixVision Evidence-backed repair verification for field technicians: Meta Muse Spark and SAM observe, a deterministic rules engine decides Passed, Failed or Inconclusive."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Evidence-backed repair verification for field technicians: Meta Muse Spark and SAM observe, a deterministic rules engine decides Passed, Failed or Inconclusive.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574056",
+    "hash_id": "75b69c5387f8"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574096",
+    "hash_id": "9df841116728"
+  },
+  {
+    "name": "fresh-fx59/agent-hackathon-kit",
+    "url": "https://github.com/fresh-fx59/agent-hackathon-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ment + reusable primitives for PDLC-track agent hackathons: stdlib-only corporate-system mocks, MCP servers, track skills, scoring benchmarks (RU/EN)",
+      "fresh-fx59/agent-hackathon-kit Rehearsal environment + reusable primitives for PDLC-track agent hackathons: stdlib-only corporate-syste"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Rehearsal environment + reusable primitives for PDLC-track agent hackathons: stdlib-only corporate-system mocks, MCP servers, track skills, scoring benchmarks (RU/EN)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574112",
+    "hash_id": "656d45bd8ea9"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574122",
+    "hash_id": "6aafd1aa26e6"
+  },
+  {
+    "name": "stepodo/sas-ram-hackathon",
+    "url": "https://github.com/stepodo/sas-ram-hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "stepodo/sas-ram-hackathon SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, pr"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, prompts, and MCP tool templates.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574134",
+    "hash_id": "4363369edf53"
+  },
+  {
+    "name": "HumanoidAppLab/GDG-Hackathon",
+    "url": "https://github.com/HumanoidAppLab/GDG-Hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "HumanoidAppLab/GDG-Hackathon Google Developers Group Windsor Build with AI Hackathon Starter Project"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Google Developers Group Windsor Build with AI Hackathon Starter Project",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574144",
+    "hash_id": "4e52268361bf"
+  },
+  {
+    "name": "thegoodengineers/qnx-porter",
+    "url": "https://github.com/thegoodengineers/qnx-porter",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "thegoodengineers/qnx-porter Agent that ports open-source C/C++ libraries to QNX 8.0, fixes build errors with reviewable patches, and proves each port with the library'"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agent that ports open-source C/C++ libraries to QNX 8.0, fixes build errors with reviewable patches, and proves each port with the library's own tests on a QNX target",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-17T16:49:42.574158",
+    "hash_id": "c40b28117ab0"
+  }
+]
