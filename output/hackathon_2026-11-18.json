@@ -1,0 +1,266 @@
+[
+  {
+    "name": "stepodo/sas-ram-hackathon",
+    "url": "https://github.com/stepodo/sas-ram-hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "stepodo/sas-ram-hackathon SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, pr"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "SAS Retrieval Agent Manager Hackathon resources: RAG collections, evaluation tests, prompts, and MCP tool templates.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593572",
+    "hash_id": "91efe94d7ca2"
+  },
+  {
+    "name": "vfernandezg-dev/humanaiz-sick-leave-verification",
+    "url": "https://github.com/vfernandezg-dev/humanaiz-sick-leave-verification",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "FastAPI, PostgreSQL 18, React 19 y Tailwind CSS 4. La IA lee el certificado con la clave de cada usuario (BYOK, nunca se almacena), reglas deterministas lo validan y RRHH decide. Español/inglés, despl"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🏆 Proyecto ganador del 1.er puesto en la Hackathon - Grupo Rocio. Verificación de descansos médicos asistida por IA: FastAPI, PostgreSQL 18, React 19 y Tailwind CSS 4. La IA lee el certificado con la clave de cada usuario (BYOK, nunca se almacena), reglas deterministas lo validan y RRHH decide. Español/inglés, desplegada en Vercel.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593653",
+    "hash_id": "71736e4de9e9"
+  },
+  {
+    "name": "Jean-Regis-M/curbcheck",
+    "url": "https://github.com/Jean-Regis-M/curbcheck",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "an-Regis-M/curbcheck Rules-grounded curbside recycling checks that say \"not sure\" when they should. Arbiter Hacks V1, Theme: Rethinking Waste."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Rules-grounded curbside recycling checks that say \"not sure\" when they should. Arbiter Hacks V1, Theme: Rethinking Waste.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593695",
+    "hash_id": "b9d8168f53c5"
+  },
+  {
+    "name": "pandirisiva234-pixel/mandimitra-ai",
+    "url": "https://github.com/pandirisiva234-pixel/mandimitra-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "pandirisiva234-pixel/mandimitra-ai Agentic AI sell-smart advisor that tells farmers when, where and at what price to sell. GAVS Hackathon, problem 6.1."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agentic AI sell-smart advisor that tells farmers when, where and at what price to sell. GAVS Hackathon, problem 6.1.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593708",
+    "hash_id": "2bbe22359b72"
+  },
+  {
+    "name": "KPCHIRAGGUPTHA/shreshtiai",
+    "url": "https://github.com/KPCHIRAGGUPTHA/shreshtiai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "KPCHIRAGGUPTHA/shreshtiai Agentic AI compliance assistant for India's micro enterprises — GAVS Hackat"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Agentic AI compliance assistant for India's micro enterprises — GAVS Hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593727",
+    "hash_id": "58134d9d35b9"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593749",
+    "hash_id": "ec7bad7d0a4a"
+  },
+  {
+    "name": "crystalcoderz/delhi-pulse",
+    "url": "https://github.com/crystalcoderz/delhi-pulse",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "-as-probes: one month of Delhi DTC GPS into time-dependent travel times, journey planner, headway-aware waits, replay + live GTFS-RT blend."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Buses-as-probes: one month of Delhi DTC GPS into time-dependent travel times, journey planner, headway-aware waits, replay + live GTFS-RT blend.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593764",
+    "hash_id": "53833c79ffe2"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593784",
+    "hash_id": "9ec73ed40ad8"
+  },
+  {
+    "name": "Sajjad-Shahali/BusFactor_Reply_ai_on_campus",
+    "url": "https://github.com/Sajjad-Shahali/BusFactor_Reply_ai_on_campus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "only one teammate can explain, sets up peer-teaching missions, and verifies the transfer with a new question. Reply Student Tech Clash 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI agent that finds project decisions only one teammate can explain, sets up peer-teaching missions, and verifies the transfer with a new question. Reply Student Tech Clash 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593801",
+    "hash_id": "0e11216dd23d"
+  },
+  {
+    "name": "Zajason/HENEX_HACKATHON",
+    "url": "https://github.com/Zajason/HENEX_HACKATHON",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Zajason/HENEX_HACKATHON Day-ahead price forecasting (P10/P50/P90) and risk-aware battery dispatch for the Greek electricity market, built at the HEnEx hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Day-ahead price forecasting (P10/P50/P90) and risk-aware battery dispatch for the Greek electricity market, built at the HEnEx hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593860",
+    "hash_id": "f33640b4b067"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-18T16:20:43.593883",
+    "hash_id": "56d0e9b3b343"
+  }
+]
