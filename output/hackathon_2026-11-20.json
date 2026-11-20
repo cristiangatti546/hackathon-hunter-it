@@ -1,0 +1,391 @@
+[
+  {
+    "name": "Pieczasz/fele",
+    "url": "https://github.com/Pieczasz/fele",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Pieczasz/fele fele (Fearless Ledger): draft prep & Fearless series planner for LoL coaches — Cloud9 x JetBrains Sky's The"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "fele (Fearless Ledger): draft prep & Fearless series planner for LoL coaches — Cloud9 x JetBrains Sky's The Limit 2026",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.144895",
+    "hash_id": "7fc4595af7db"
+  },
+  {
+    "name": "SidraShaikh1211/incident-agent",
+    "url": "https://github.com/SidraShaikh1211/incident-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "SidraShaikh1211/incident-agent Hackathon project: an agent that triages a failed Spark job, patches the cause and opens a draft PR"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Hackathon project: an agent that triages a failed Spark job, patches the cause and opens a draft PR",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.144947",
+    "hash_id": "8b791a75ebd2"
+  },
+  {
+    "name": "candicewu0515/dissent",
+    "url": "https://github.com/candicewu0515/dissent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "candicewu0515/dissent A variant interpretation engine that shows you the argument, not just the answer. Built for GenHacks 20"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A variant interpretation engine that shows you the argument, not just the answer. Built for GenHacks 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.144965",
+    "hash_id": "b1e31a00a5b1"
+  },
+  {
+    "name": "taskifbin/borderless-money",
+    "url": "https://github.com/taskifbin/borderless-money",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Hackathon Project | An AI-driven, cross-border remittance platform using Python, Next.js, and Stellar blockchain to ensure transparent, low-cost money transfers."
+    ],
+    "prizes_cash": [
+      "taskifbin/borderless-money AI Builders Congress Hackathon Project | An AI-driven, cross-border remittance platform using"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI Builders Congress Hackathon Project | An AI-driven, cross-border remittance platform using Python, Next.js, and Stellar blockchain to ensure transparent, low-cost money transfers.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.144987",
+    "hash_id": "9d5543b085a2"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145003",
+    "hash_id": "5c8b36f52871"
+  },
+  {
+    "name": "KernerlRace/python-mastery-rpg",
+    "url": "https://github.com/KernerlRace/python-mastery-rpg",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "KernerlRace/python-mastery-rpg Gamified platform for learning Python — built in 48 hours at a University of Winchester hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Gamified platform for learning Python — built in 48 hours at a University of Winchester hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145024",
+    "hash_id": "59d6744ad1df"
+  },
+  {
+    "name": "Greatman62k/remboai",
+    "url": "https://github.com/Greatman62k/remboai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Greatman62k/remboai Meta Muse Spark AI receptionist for Kenyan barbershops and salons: chat bookings, owner-verified M-Pesa and Airt"
+    ],
+    "prizes_cash": [
+      "AI receptionist for Kenyan barbershops and salons: chat bookings, owner-verified M-Pesa and Airtel Money deposits, and voice support in English, Swahili, and Sheng."
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Meta Muse Spark AI receptionist for Kenyan barbershops and salons: chat bookings, owner-verified M-Pesa and Airtel Money deposits, and voice support in English, Swahili, and Sheng.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145043",
+    "hash_id": "32e9d6e661a5"
+  },
+  {
+    "name": "AtulSharmx/RASAD",
+    "url": "https://github.com/AtulSharmx/RASAD",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AtulSharmx/RASAD Predictive logistics system for Indian Army forward supply chains — SIH 2026 · SIH26251"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Predictive logistics system for Indian Army forward supply chains — SIH 2026 · SIH26251",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145065",
+    "hash_id": "65e7ea206cec"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145087",
+    "hash_id": "92eafcb41e3a"
+  },
+  {
+    "name": "rldyourmnd/hack-setup",
+    "url": "https://github.com/rldyourmnd/hack-setup",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-setup Shared agent setup and reproducible development tooling for hackathon teams. Codex project surfaces an"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Shared agent setup and reproducible development tooling for hackathon teams. Codex project surfaces and pinned toolchain.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145104",
+    "hash_id": "835bd7df6a71"
+  },
+  {
+    "name": "HumanoidAppLab/GDG-Hackathon",
+    "url": "https://github.com/HumanoidAppLab/GDG-Hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "HumanoidAppLab/GDG-Hackathon Google Developers Group Windsor Build with AI Hackathon Starter Project"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Google Developers Group Windsor Build with AI Hackathon Starter Project",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145155",
+    "hash_id": "c0831c35738a"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145171",
+    "hash_id": "2d21812c6224"
+  },
+  {
+    "name": "Jean-Regis-M/curbcheck",
+    "url": "https://github.com/Jean-Regis-M/curbcheck",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "an-Regis-M/curbcheck Rules-grounded curbside recycling checks that say \"not sure\" when they should. Arbiter Hacks V1, Theme: Rethinking Waste."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Rules-grounded curbside recycling checks that say \"not sure\" when they should. Arbiter Hacks V1, Theme: Rethinking Waste.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145196",
+    "hash_id": "efcb200bc75f"
+  },
+  {
+    "name": "IamHarrie-Labs/hanko",
+    "url": "https://github.com/IamHarrie-Labs/hanko",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "IamHarrie-Labs/hanko An agent that files receipts. RYO-CHAN Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An agent that files receipts. RYO-CHAN Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145207",
+    "hash_id": "42ea7fe676bf"
+  },
+  {
+    "name": "ncchen99/pickfit",
+    "url": "https://github.com/ncchen99/pickfit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ncchen99/pickfit Every tool, tested first. A software advisor for people and AI agents: pickfit installs and tests software in a sandbox before recomm"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Every tool, tested first. A software advisor for people and AI agents: pickfit installs and tests software in a sandbox before recommending it, over MCP and at pickfit.app. Built with Meta's Muse Spark models.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145226",
+    "hash_id": "d82cbbd56483"
+  },
+  {
+    "name": "YixiaJack/hardware-hackathon-works",
+    "url": "https://github.com/YixiaJack/hardware-hackathon-works",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon p",
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon projects, tagged on six dimensions",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-20T15:59:55.145257",
+    "hash_id": "26c031b93a7d"
+  }
+]
