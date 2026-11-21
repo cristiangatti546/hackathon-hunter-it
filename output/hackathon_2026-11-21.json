@@ -1,0 +1,339 @@
+[
+  {
+    "name": "candicewu0515/dissent",
+    "url": "https://github.com/candicewu0515/dissent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "candicewu0515/dissent A variant interpretation engine that shows you the argument, not just the answer. Built for GenHacks 20"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A variant interpretation engine that shows you the argument, not just the answer. Built for GenHacks 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810126",
+    "hash_id": "75922c37f310"
+  },
+  {
+    "name": "Harsh223/alfred",
+    "url": "https://github.com/Harsh223/alfred",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Harsh223/alfred ALFRED — Agentic Ledger For Regulated Enterprise Decisions: an on-prem, open-weight A"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "ALFRED — Agentic Ledger For Regulated Enterprise Decisions: an on-prem, open-weight AI colleague for banks that speaks first, admits what it doesn't know, and never acts without human approval. Red-teamed 3,947× (0 leaks, 0 unauthorised actions). Live arena: alfred.harsh.one/arena",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810211",
+    "hash_id": "d83332620a6c"
+  },
+  {
+    "name": "mirjamol-data/campus-navigator",
+    "url": "https://github.com/mirjamol-data/campus-navigator",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "recen: decode room codes and check if you can make it to your next class on time — on foot, by bus/tram or by bike. Streamlit, works offline."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "University of Debrecen: decode room codes and check if you can make it to your next class on time — on foot, by bus/tram or by bike. Streamlit, works offline.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810239",
+    "hash_id": "43e4a7276e6e"
+  },
+  {
+    "name": "Cyber-Guys/ripple-guardian",
+    "url": "https://github.com/Cyber-Guys/ripple-guardian",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Cyber-Guys/ripple-guardian Blockchain forensics framework for the XRP Ledger. Owners get plain-language alerts when keys change or funds leave; analy",
+      "Cyber-Guys/ripple-guardian Blockchain forensics framework for the XRP Ledger. Owners get plain-language alerts when keys"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Blockchain forensics framework for the XRP Ledger. Owners get plain-language alerts when keys change or funds leave; analysts trace stolen XRP hop by hop to the exchange and destination tag. Built at IXH26 Bari.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810262",
+    "hash_id": "cdf5a57da8c3"
+  },
+  {
+    "name": "JoahanMorales/upiixia-agentic-kit",
+    "url": "https://github.com/JoahanMorales/upiixia-agentic-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ales/upiixia-agentic-kit Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810306",
+    "hash_id": "909b62e71bef"
+  },
+  {
+    "name": "joshuamuellenbach25/RWX---Blast-Radius",
+    "url": "https://github.com/joshuamuellenbach25/RWX---Blast-Radius",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "reads each sqlglot patch and lists only the tests it can break, split across CI workers. Team BackwardsDeployeds."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Blast Radius test selector: reads each sqlglot patch and lists only the tests it can break, split across CI workers. Team BackwardsDeployeds.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810348",
+    "hash_id": "1640513b0155"
+  },
+  {
+    "name": "ufx7/tva-labs-coherence-nextsemi-2026",
+    "url": "https://github.com/ufx7/tva-labs-coherence-nextsemi-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [],
+    "prizes_cash": [
+      "-nextsemi-2026 TVA Labs — coherence where sync is denied or impossible. NextSEMI Hackathon (SEMICON Europa x TUM Venture Labs), imec ventures challenge 'Build the next timing unicorn': chip-scale atom"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "TVA Labs — coherence where sync is denied or impossible. NextSEMI Hackathon (SEMICON Europa x TUM Venture Labs), imec ventures challenge 'Build the next timing unicorn': chip-scale atomic clock (ADEV < 1e-15 @ 1 s) turned into a venture, with an auditable simulation and 10 anonymised industry interviews.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810381",
+    "hash_id": "2302a187c066"
+  },
+  {
+    "name": "aimanmalib/sampan-river",
+    "url": "https://github.com/aimanmalib/sampan-river",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aimanmalib/sampan-river The River Fare: a 60-second animated film about sending one dollar across a river on Bitcoin Cash, with every o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "The River Fare: a 60-second animated film about sending one dollar across a river on Bitcoin Cash, with every on-chain number linked. BCH BLAZE 2026 Media Track.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810401",
+    "hash_id": "fe01876f24a8"
+  },
+  {
+    "name": "rldyourmnd/hack-2026-nornickel",
+    "url": "https://github.com/rldyourmnd/hack-2026-nornickel",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-2026-nornickel Nornickel AI Hack 2026: evidence-backed research knowledge graph and retrieval workbench for mining and metallurgy."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Nornickel AI Hack 2026: evidence-backed research knowledge graph and retrieval workbench for mining and metallurgy.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810419",
+    "hash_id": "d91b60aa4537"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810435",
+    "hash_id": "21f2da74dc4c"
+  },
+  {
+    "name": "yehorm14/fire-sight",
+    "url": "https://github.com/yehorm14/fire-sight",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "yehorm14/fire-sight Glasgow fire-risk map: ward risk scores and dwelling-fire forecasts. FastAPI, React, Leaflet, pandas."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Glasgow fire-risk map: ward risk scores and dwelling-fire forecasts. FastAPI, React, Leaflet, pandas.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810450",
+    "hash_id": "3abde96fcf6e"
+  },
+  {
+    "name": "rldyourmnd/hack-2026-nornickel-mvp",
+    "url": "https://github.com/rldyourmnd/hack-2026-nornickel-mvp",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-2026-nornickel-mvp Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810464",
+    "hash_id": "d30ecfbfa1c3"
+  },
+  {
+    "name": "yehorm14/Avenir",
+    "url": "https://github.com/yehorm14/Avenir",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "yehorm14/Avenir Career decision tool for UK school leavers using real ONS pay, employment and automation data. GUTS 2"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Career decision tool for UK school leavers using real ONS pay, employment and automation data. GUTS 2026. FastAPI, React, TypeScript.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810500",
+    "hash_id": "faf99a25af6a"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-21T15:14:34.810521",
+    "hash_id": "ba09f7337394"
+  }
+]
