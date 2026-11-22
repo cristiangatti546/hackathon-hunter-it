@@ -1,0 +1,370 @@
+[
+  {
+    "name": "ganeshkumarchalla/Qore",
+    "url": "https://github.com/ganeshkumarchalla/Qore",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ganeshkumarchalla/Qore QORE is a browser-based quantum workspace for Qiskit, Q#, and OpenQASM circuits, simul"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "QORE is a browser-based quantum workspace for Qiskit, Q#, and OpenQASM circuits, simulation, Bloch views, transpiler checks, and reproducible experiments.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810059",
+    "hash_id": "130a295540dd"
+  },
+  {
+    "name": "JoahanMorales/upiixia-agentic-kit",
+    "url": "https://github.com/JoahanMorales/upiixia-agentic-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ales/upiixia-agentic-kit Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810125",
+    "hash_id": "ab6f7462b108"
+  },
+  {
+    "name": "taskifbin/borderless-money",
+    "url": "https://github.com/taskifbin/borderless-money",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Hackathon Project | An AI-driven, cross-border remittance platform using Python, Next.js, and Stellar blockchain to ensure transparent, low-cost money transfers."
+    ],
+    "prizes_cash": [
+      "taskifbin/borderless-money AI Builders Congress Hackathon Project | An AI-driven, cross-border remittance platform using"
+    ],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI Builders Congress Hackathon Project | An AI-driven, cross-border remittance platform using Python, Next.js, and Stellar blockchain to ensure transparent, low-cost money transfers.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810151",
+    "hash_id": "77df3758470b"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810168",
+    "hash_id": "64ae1389b9a3"
+  },
+  {
+    "name": "carlozamu/Desf-AI",
+    "url": "https://github.com/carlozamu/Desf-AI",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "carlozamu/Desf-AI Multi-agent LLM client for a restaurant-market hackathon game: bidding, menu pricin"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent LLM client for a restaurant-market hackathon game: bidding, menu pricing and trend analysis over MCP.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810198",
+    "hash_id": "1150d095f2cc"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810227",
+    "hash_id": "8de9fecd353d"
+  },
+  {
+    "name": "eren-unluturk/T-Quest",
+    "url": "https://github.com/eren-unluturk/T-Quest",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Quest Pokémon-Go-style game layer over the MBTA (subway and bus): check in at stops, collect them, earn points and ranks, and see live T analytics. Built on Tiger Data (Postgres + TimescaleDB) with re",
+      "eren-unluturk/T-Quest Pokémon-Go-style game layer over the MBTA (subway and bus): check in at stops, collect them, e"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Pokémon-Go-style game layer over the MBTA (subway and bus): check in at stops, collect them, earn points and ranks, and see live T analytics. Built on Tiger Data (Postgres + TimescaleDB) with real MBTA data. Boston Hacks, Transit Gamification track. Demo prototype, all sponsors are placeholders.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810267",
+    "hash_id": "9e7fdc1e14f1"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810286",
+    "hash_id": "1a3f05649391"
+  },
+  {
+    "name": "AmRitJain0442/counterparty-llp",
+    "url": "https://github.com/AmRitJain0442/counterparty-llp",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AmRitJain0442/counterparty-llp Counterparty LLP checks business claims against Crustdata and independent records. A multi-"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Counterparty LLP checks business claims against Crustdata and independent records. A multi-agent due diligence workspace built for the ContextCon 05 hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810307",
+    "hash_id": "ac7a8234d234"
+  },
+  {
+    "name": "hacklab11/apollo-11",
+    "url": "https://github.com/hacklab11/apollo-11",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "hacklab11/apollo-11 Eye of the System: an autonomous monitoring system for a simulated marketplace. Agents keep a typed metric graph, detect anomalies, i",
+      "ect anomalies, investigate root causes, and report incidents with evidence. A2A specialists, an MCP server, and a web UI.",
+      "hacklab11/apollo-11 Eye of the System: an autonomous monitoring system for a simulated marketplace. Agents keep a typed metric graph, detect anomalies, investigate root causes, and report"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Eye of the System: an autonomous monitoring system for a simulated marketplace. Agents keep a typed metric graph, detect anomalies, investigate root causes, and report incidents with evidence. A2A specialists, an MCP server, and a web UI.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810333",
+    "hash_id": "bc1c0afb1d2b"
+  },
+  {
+    "name": "YixiaJack/hardware-hackathon-works",
+    "url": "https://github.com/YixiaJack/hardware-hackathon-works",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon p",
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon projects, tagged on six dimensions",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810369",
+    "hash_id": "4310a7c7e13f"
+  },
+  {
+    "name": "Mezx-1/three-bees",
+    "url": "https://github.com/Mezx-1/three-bees",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "scam & cyber-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026.",
+      "er-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026.",
+      "bees Three Bees (3B): scam & cyber-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Three Bees (3B): scam & cyber-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810391",
+    "hash_id": "23bcc30c42bf"
+  },
+  {
+    "name": "ajahelube/minion-radar",
+    "url": "https://github.com/ajahelube/minion-radar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ajahelube/minion-radar An OpenMinion agent that tells a builder what changed in a GitHub repo since they last looked."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An OpenMinion agent that tells a builder what changed in a GitHub repo since they last looked.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810406",
+    "hash_id": "c52e3b89b2b4"
+  },
+  {
+    "name": "ajahelube/call-checker-cmc",
+    "url": "https://github.com/ajahelube/call-checker-cmc",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ajahelube/call-checker-cmc Paste a crypto creator's posts. Get a trust score backed by real CoinMarketCap prices."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Paste a crypto creator's posts. Get a trust score backed by real CoinMarketCap prices.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810421",
+    "hash_id": "3ce3ee40b997"
+  },
+  {
+    "name": "ncchen99/pickfit",
+    "url": "https://github.com/ncchen99/pickfit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ncchen99/pickfit Every tool, tested first. A software advisor for people and AI agents: pickfit installs and tests software in a sandbox before recomm"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Every tool, tested first. A software advisor for people and AI agents: pickfit installs and tests software in a sandbox before recommending it, over MCP and at pickfit.app. Built with Meta's Muse Spark models.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-22T15:11:30.810441",
+    "hash_id": "2a73efececaa"
+  }
+]
