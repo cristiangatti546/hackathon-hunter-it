@@ -1,0 +1,319 @@
+[
+  {
+    "name": "Tablua/1177-plain-language",
+    "url": "https://github.com/Tablua/1177-plain-language",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Tablua/1177-plain-language Plain-language medical record notes for 1177.se - Hacking Healthcare hackathon finalist prototype"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Plain-language medical record notes for 1177.se - Hacking Healthcare hackathon finalist prototype",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976306",
+    "hash_id": "6fa477520055"
+  },
+  {
+    "name": "Physics0070/ActionProof",
+    "url": "https://github.com/Physics0070/ActionProof",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "that makes an AI agent prove every value behind a write, and never lets one approval run twice. CodeQuest 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Proof before permission: a safety gate that makes an AI agent prove every value behind a write, and never lets one approval run twice. CodeQuest 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976371",
+    "hash_id": "be7c5478764f"
+  },
+  {
+    "name": "YixiaJack/hardware-hackathon-works",
+    "url": "https://github.com/YixiaJack/hardware-hackathon-works",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon p",
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon projects, tagged on six dimensions",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976397",
+    "hash_id": "20ce28b70c19"
+  },
+  {
+    "name": "fernandohcnfernandes-tech/rastro-da-emenda",
+    "url": "https://github.com/fernandohcnfernandes-tech/rastro-da-emenda",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "fernandohcnfernandes-tech/rastro-da-emenda Segue cada real das emendas parlamentares Pix (Transferegov) até a licitação e o contrato no município ou estado (PNCP, Querido D"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Segue cada real das emendas parlamentares Pix (Transferegov) até a licitação e o contrato no município ou estado (PNCP, Querido Diário, Tribunais de Contas), com motor de indícios, IA (Claude) e mapa. Aponta indícios, não acusações. Hack Brasil 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976430",
+    "hash_id": "56ccbecfa2de"
+  },
+  {
+    "name": "AndrewMichael2020/akamai-seattle-workshop-travel-org-app",
+    "url": "https://github.com/AndrewMichael2020/akamai-seattle-workshop-travel-org-app",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "-travel-org-app Trailhead Organizer · Lots of chats. One trip. Turn group chats into a dated trip board, match rides and resolve follow-ups with live Akamai Inference."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Trailhead Organizer · Lots of chats. One trip. Turn group chats into a dated trip board, match rides and resolve follow-ups with live Akamai Inference.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976454",
+    "hash_id": "2160079d658f"
+  },
+  {
+    "name": "JoahanMorales/upiixia-agentic-kit",
+    "url": "https://github.com/JoahanMorales/upiixia-agentic-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ales/upiixia-agentic-kit Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976476",
+    "hash_id": "3f07b854737e"
+  },
+  {
+    "name": "sai-varshini-011/smart-grid-heatwave-controller",
+    "url": "https://github.com/sai-varshini-011/smart-grid-heatwave-controller",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "sai-varshini-011/smart-grid-heatwave-controller IoT + AI system (ESP32 + Gemini) that monitors substation heatwaves and water levels to generate operator & citizen alerts.",
+      "sai-varshini-011/smart-grid-heatwave-controller IoT + AI system (ESP32 + Gemini) that monitors substation"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "IoT + AI system (ESP32 + Gemini) that monitors substation heatwaves and water levels to generate operator & citizen alerts.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976526",
+    "hash_id": "862e5bf4127f"
+  },
+  {
+    "name": "Mezx-1/three-bees",
+    "url": "https://github.com/Mezx-1/three-bees",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "scam & cyber-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026.",
+      "er-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026.",
+      "bees Three Bees (3B): scam & cyber-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Three Bees (3B): scam & cyber-threat shield. Fact-checks scam calls, explains every verdict in Arabic, links email, laptop and phone evidence. Abu Dhabi Police Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976551",
+    "hash_id": "0df59a54baac"
+  },
+  {
+    "name": "ganeshkumarchalla/Qore",
+    "url": "https://github.com/ganeshkumarchalla/Qore",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ganeshkumarchalla/Qore QORE is a browser-based quantum workspace for Qiskit, Q#, and OpenQASM circuits, simul"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "QORE is a browser-based quantum workspace for Qiskit, Q#, and OpenQASM circuits, simulation, Bloch views, transpiler checks, and reproducible experiments.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976573",
+    "hash_id": "32ad122d1cc0"
+  },
+  {
+    "name": "fexx301/oathcast",
+    "url": "https://github.com/fexx301/oathcast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "fexx301/oathcast OathCast: a transparent calibration court for short-horizon machine forecasts"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "OathCast: a transparent calibration court for short-horizon machine forecasts",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976588",
+    "hash_id": "f44a6dc022c6"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976605",
+    "hash_id": "fb3a36e77c8d"
+  },
+  {
+    "name": "nickjlamb/tandem-hackathon-2026",
+    "url": "https://github.com/nickjlamb/tandem-hackathon-2026",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "action plan → one clinician approval → orders, booking, patient message, and tracking until results are reviewed. No patient lost to follow-up."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Closes the loop after outpatient clinic. Clinic note → checked action plan → one clinician approval → orders, booking, patient message, and tracking until results are reviewed. No patient lost to follow-up.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976634",
+    "hash_id": "cf29decbe205"
+  },
+  {
+    "name": "termvato/HFTeamA",
+    "url": "https://github.com/termvato/HFTeamA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "termvato/HFTeamA 🏆 Winner, Hugging Face Desk Hero track, HackLab #2 Berlin. Orchestra: build a robot skill once for one arm, plug in more SO-101 arms, and it re-plans live. Multi-arm scheduling,",
+      "inner, Hugging Face Desk Hero track, HackLab #2 Berlin. Orchestra: build a robot skill once for one arm, plug in more SO-101 arms, and it re-plans live. Multi-arm scheduling, plug-and-produce, LeRobot"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "🏆 Winner, Hugging Face Desk Hero track, HackLab #2 Berlin. Orchestra: build a robot skill once for one arm, plug in more SO-101 arms, and it re-plans live. Multi-arm scheduling, plug-and-produce, LeRobot, X-VLA.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-23T19:09:08.976671",
+    "hash_id": "0c56c15224b2"
+  }
+]
