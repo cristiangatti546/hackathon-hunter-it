@@ -1,0 +1,316 @@
+[
+  {
+    "name": "filekk/whatdahack_discord",
+    "url": "https://github.com/filekk/whatdahack_discord",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "filekk/whatdahack_discord checks if a new hackathon appears on whatdahack.pl and sends it to your discord channel by a webhook"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "checks if a new hackathon appears on whatdahack.pl and sends it to your discord channel by a webhook",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905772",
+    "hash_id": "e8844a332cff"
+  },
+  {
+    "name": "m1ser1ti/smartheat",
+    "url": "https://github.com/m1ser1ti/smartheat",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "m1ser1ti/smartheat Forecast room temperature and stop overheating in centrally heated buildings. CECECO Clean E"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Forecast room temperature and stop overheating in centrally heated buildings. CECECO Clean Energy Hackathon 2027.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905830",
+    "hash_id": "d1162961f967"
+  },
+  {
+    "name": "YixiaJack/hardware-hackathon-works",
+    "url": "https://github.com/YixiaJack/hardware-hackathon-works",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon p",
+      "YixiaJack/hardware-hackathon-works 自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "自动收录全球硬件/机器人/具身交互黑客松里最有意思的作品 · Auto-updating gallery of hardware hackathon projects, tagged on six dimensions",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905853",
+    "hash_id": "4c3cd728f15b"
+  },
+  {
+    "name": "samadpls/onepass",
+    "url": "https://github.com/samadpls/onepass",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "n decision model: typed yes/no, choice and score answers with calibrated probabilities from one forward pass, zero generated tokens. Qwen3 + LoRA, runs locally with llama.cpp."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Tiny open decision model: typed yes/no, choice and score answers with calibrated probabilities from one forward pass, zero generated tokens. Qwen3 + LoRA, runs locally with llama.cpp.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905869",
+    "hash_id": "df3dd662479c"
+  },
+  {
+    "name": "JoahanMorales/upiixia-agentic-kit",
+    "url": "https://github.com/JoahanMorales/upiixia-agentic-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ales/upiixia-agentic-kit Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905885",
+    "hash_id": "e83f8b264d1a"
+  },
+  {
+    "name": "Hapinam/vybe-ai",
+    "url": "https://github.com/Hapinam/vybe-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Hapinam/vybe-ai Accessibility-first football replay with AI-assisted commentary, multilingual experiences, and event-grounded insights. Microsoft + Premier League Hackathon 202"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Accessibility-first football replay with AI-assisted commentary, multilingual experiences, and event-grounded insights. Microsoft + Premier League Hackathon 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905899",
+    "hash_id": "f8c69726ff84"
+  },
+  {
+    "name": "NinadRao0707/cohort-firewall",
+    "url": "https://github.com/NinadRao0707/cohort-firewall",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "detection, impact on analyses, human review and a tamper-evident audit log. Second place, AI Healthcare Hackathon at Northeastern."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Checks whether a new oncology dataset release is still safe to use: change detection, impact on analyses, human review and a tamper-evident audit log. Second place, AI Healthcare Hackathon at Northeastern.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905917",
+    "hash_id": "209ff4cce576"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905946",
+    "hash_id": "02c298171b39"
+  },
+  {
+    "name": "Nishant-Chaudhari-Dev/gdg-hackathon",
+    "url": "https://github.com/Nishant-Chaudhari-Dev/gdg-hackathon",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Nishant-Chaudhari-Dev/gdg-hackathon SentinelDesk: multilingual incident triage, escalation gate and grounded RAG r"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "SentinelDesk: multilingual incident triage, escalation gate and grounded RAG reply copilot on Google Cloud (GDG Cloud Boston × Northeastern hackathon)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905964",
+    "hash_id": "124404692039"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.905992",
+    "hash_id": "75923ca5b3cc"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.906030",
+    "hash_id": "67d5932385ae"
+  },
+  {
+    "name": "ElMazrouaCS/mtah2027-ball-possession",
+    "url": "https://github.com/ElMazrouaCS/mtah2027-ball-possession",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "azrouaCS/mtah2027-ball-possession More than a Hack 2027 (Metrica Sports × FC Barcelona) - Phase 1: frame-by-frame ball possession (H/A/dead) from automatic tracking, via per-frame evidence and an HMM/",
+      "ElMazrouaCS/mtah2027-ball-possession More than a Hack 2027 (Metrica Sports × FC Barcelona) - Phase 1: frame-by-frame ball possession (H/A/dead) from automatic tracking, via per-fram"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "More than a Hack 2027 (Metrica Sports × FC Barcelona) - Phase 1: frame-by-frame ball possession (H/A/dead) from automatic tracking, via per-frame evidence and an HMM/Viterbi decoder, validated on open match data.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.906065",
+    "hash_id": "f59f9670ece7"
+  },
+  {
+    "name": "Yatsuiii/stillhere",
+    "url": "https://github.com/Yatsuiii/stillhere",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "recast the brain response with Meta's TRIBE v2, and see how forecasts did on real public scans. Research use; healthy volunteers and public data only."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Pilot the story before booking the scanner. Plan a listening study, build and check the stimulus, forecast the brain response with Meta's TRIBE v2, and see how forecasts did on real public scans. Research use; healthy volunteers and public data only.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-24T18:47:12.906083",
+    "hash_id": "d9976406ff47"
+  }
+]
