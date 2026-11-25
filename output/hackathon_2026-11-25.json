@@ -1,0 +1,392 @@
+[
+  {
+    "name": "Niss54/AEGIS",
+    "url": "https://github.com/Niss54/AEGIS",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "urves, RFC-8785 Canonical State Roots & Smart Disaster Bonds. Track 4: Climate Data & Environmental Monitoring.",
+      "Niss54/AEGIS Autonomous Multi-Agent Climate Resilience & Parametric Finance Protocol for Pluvial Inundation. Features 30m NASA DEM Hydrology, FEMA HAZUS Curves",
+      "Niss54/AEGIS Autonomous Multi-Agent Climate Resilience & Parametric Finance Protocol for Pluvial Inundation. Features 30m NASA DEM Hydrology, FEMA HAZUS Curve"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Autonomous Multi-Agent Climate Resilience & Parametric Finance Protocol for Pluvial Inundation. Features 30m NASA DEM Hydrology, FEMA HAZUS Curves, RFC-8785 Canonical State Roots & Smart Disaster Bonds. Track 4: Climate Data & Environmental Monitoring.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820471",
+    "hash_id": "c104205877b8"
+  },
+  {
+    "name": "JustKamlesH21/pratyaksh",
+    "url": "https://github.com/JustKamlesH21/pratyaksh",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "unner-up, FET Aavishkar 2026. Tells a bank whether a caller is a live person holding the customer's phone or an AI voice clone.",
+      "JustKamlesH21/pratyaksh Runner-up, FET Aavishkar 2026. Tells a bank whether a caller is a live person holding the customer's phone or an AI voice"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Runner-up, FET Aavishkar 2026. Tells a bank whether a caller is a live person holding the customer's phone or an AI voice clone.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820534",
+    "hash_id": "2e32e953ba4f"
+  },
+  {
+    "name": "JoahanMorales/upiixia-agentic-kit",
+    "url": "https://github.com/JoahanMorales/upiixia-agentic-kit",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "ales/upiixia-agentic-kit Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent coordination kit for Claude Code, Codex, Cursor & Gemini CLI: parallel AI agents with claims, leases, bounded loops, reviews and merges over Git.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820552",
+    "hash_id": "0ba2da743c34"
+  },
+  {
+    "name": "Ordalinnn/tumar",
+    "url": "https://github.com/Ordalinnn/tumar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Ordalinnn/tumar Тұмар: радар медленных мошеннических схем. Учебный прототип, данные вымышлены, не продукт БЦК"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Тұмар: радар медленных мошеннических схем. Учебный прототип, данные вымышлены, не продукт БЦК",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820568",
+    "hash_id": "3a645b03d698"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820581",
+    "hash_id": "183039f5181c"
+  },
+  {
+    "name": "rldyourmnd/hack-2026-nornickel",
+    "url": "https://github.com/rldyourmnd/hack-2026-nornickel",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-2026-nornickel Nornickel AI Hack 2026: evidence-backed research knowledge graph and retrieval workbench for mining and metallurgy."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Nornickel AI Hack 2026: evidence-backed research knowledge graph and retrieval workbench for mining and metallurgy.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820595",
+    "hash_id": "a9bbb1a311e5"
+  },
+  {
+    "name": "rldyourmnd/hack-2026-nornickel-mvp",
+    "url": "https://github.com/rldyourmnd/hack-2026-nornickel-mvp",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-2026-nornickel-mvp Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820607",
+    "hash_id": "bcb42a100606"
+  },
+  {
+    "name": "Brendan-Lim/Quack",
+    "url": "https://github.com/Brendan-Lim/Quack",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "n-Lim/Quack An AI maths companion for handwritten homework. Spot mistakes, get helpful hints, and learn from your corrections 🐤"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An AI maths companion for handwritten homework. Spot mistakes, get helpful hints, and learn from your corrections 🐤",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820655",
+    "hash_id": "4d80b0831a21"
+  },
+  {
+    "name": "jagpreetsingh02/Khayal",
+    "url": "https://github.com/jagpreetsingh02/Khayal",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "jagpreetsingh02/Khayal WhatsApp-first health helper for elderly parents in India: a photo of a BP monitor or glucometer becomes a confirmed reading, the family is alerted, and refills need a family",
+      "ecomes a confirmed reading, the family is alerted, and refills need a family member's approval. MCP server with guardrails.",
+      "jagpreetsingh02/Khayal WhatsApp-first health helper for elderly parents in India: a photo of a BP monitor or glucometer becomes a confirmed reading, the family is al"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "WhatsApp-first health helper for elderly parents in India: a photo of a BP monitor or glucometer becomes a confirmed reading, the family is alerted, and refills need a family member's approval. MCP server with guardrails.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820676",
+    "hash_id": "4e58989ddcc0"
+  },
+  {
+    "name": "axxess-triaxis/Omnidamus",
+    "url": "https://github.com/axxess-triaxis/Omnidamus",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "axxess-triaxis/Omnidamus Omnichannel conversational relay agent - AWS CDS Agentic AI Partner Hackathon"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Omnichannel conversational relay agent - AWS CDS Agentic AI Partner Hackathon",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820688",
+    "hash_id": "c0edb598834b"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820705",
+    "hash_id": "9518a06d5908"
+  },
+  {
+    "name": "govtechnl/onegov3-synthpop-py",
+    "url": "https://github.com/govtechnl/onegov3-synthpop-py",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "govtechnl/onegov3-synthpop-py Starter repository for OneGov #3, challenge 3 (synthpop.py): enforce user-defined business rules while"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Starter repository for OneGov #3, challenge 3 (synthpop.py): enforce user-defined business rules while synthesising with synthpop-py, DUO's open source synthesis package.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820729",
+    "hash_id": "57ae2bd738f0"
+  },
+  {
+    "name": "GMTerror/SightLine9",
+    "url": "https://github.com/GMTerror/SightLine9",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "VALORANT scouting. Maps ability casts and aim angles to outcomes, with evidence-locked anti-strat cards for Cloud9 and Cloud9 GC."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Spatial utility and sightline analysis for VALORANT scouting. Maps ability casts and aim angles to outcomes, with evidence-locked anti-strat cards for Cloud9 and Cloud9 GC.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820744",
+    "hash_id": "88dcc74de050"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820755",
+    "hash_id": "78ec5bbcf0e5"
+  },
+  {
+    "name": "fernandohcnfernandes-tech/rastro-da-emenda",
+    "url": "https://github.com/fernandohcnfernandes-tech/rastro-da-emenda",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "fernandohcnfernandes-tech/rastro-da-emenda Segue cada real das emendas parlamentares Pix (Transferegov) até a licitação e o contrato no município ou estado (PNCP, Querido D"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Segue cada real das emendas parlamentares Pix (Transferegov) até a licitação e o contrato no município ou estado (PNCP, Querido Diário, Tribunais de Contas), com motor de indícios, IA (Claude) e mapa. Aponta indícios, não acusações. Hack Brasil 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820787",
+    "hash_id": "1e631b16c45c"
+  },
+  {
+    "name": "DarshanKrishna-DK/Memo",
+    "url": "https://github.com/DarshanKrishna-DK/Memo",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "DarshanKrishna-DK/Memo Memo turns your family's Telegram photos, voice notes and stories into a walkable 3D museum, where floors are years, rooms are mon",
+      "DarshanKrishna-DK/Memo Memo turns your family's Telegram photos, voice notes and stories into a walka"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Memo turns your family's Telegram photos, voice notes and stories into a walkable 3D museum, where floors are years, rooms are months, and Grandma narrates the memories in English, Hindi or Kannada.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-25T17:55:04.820803",
+    "hash_id": "faf4d5ac987f"
+  }
+]
