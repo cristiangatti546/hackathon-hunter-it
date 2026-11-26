@@ -1,0 +1,363 @@
+[
+  {
+    "name": "yehorm14/fire-sight",
+    "url": "https://github.com/yehorm14/fire-sight",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "yehorm14/fire-sight Glasgow fire-risk map: ward risk scores and dwelling-fire forecasts. FastAPI, React, Leaflet, pandas."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Glasgow fire-risk map: ward risk scores and dwelling-fire forecasts. FastAPI, React, Leaflet, pandas.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.332939",
+    "hash_id": "b4f50528dddc"
+  },
+  {
+    "name": "harshbhx/probate",
+    "url": "https://github.com/harshbhx/probate",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "harshbhx/probate My agent dies every night. A court decides what its child inherits. A family of emai"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "My agent dies every night. A court decides what its child inherits. A family of email agents on Fly.io Sprites, with a two-layer court that turns the tricks that fooled a parent into instincts for its children.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.332996",
+    "hash_id": "c3c4612dad28"
+  },
+  {
+    "name": "Ordalinnn/tumar",
+    "url": "https://github.com/Ordalinnn/tumar",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Ordalinnn/tumar Тұмар: радар медленных мошеннических схем. Учебный прототип, данные вымышлены, не продукт БЦК"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Тұмар: радар медленных мошеннических схем. Учебный прототип, данные вымышлены, не продукт БЦК",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333011",
+    "hash_id": "72e378a4c447"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333026",
+    "hash_id": "f8d406f08958"
+  },
+  {
+    "name": "cardox6/steuer-graph",
+    "url": "https://github.com/cardox6/steuer-graph",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "cardox6/steuer-graph German voice agent for tax-firm status calls over a Neo4j knowledge graph. 3rd p"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "German voice agent for tax-firm status calls over a Neo4j knowledge graph. 3rd place, Neo4j Mini Hack at Global AI Construct Berlin 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333041",
+    "hash_id": "b08bc8b0edf9"
+  },
+  {
+    "name": "rldyourmnd/hack-2026-nornickel",
+    "url": "https://github.com/rldyourmnd/hack-2026-nornickel",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-2026-nornickel Nornickel AI Hack 2026: evidence-backed research knowledge graph and retrieval workbench for mining and metallurgy."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Nornickel AI Hack 2026: evidence-backed research knowledge graph and retrieval workbench for mining and metallurgy.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333055",
+    "hash_id": "29086c74086a"
+  },
+  {
+    "name": "rldyourmnd/hack-2026-nornickel-mvp",
+    "url": "https://github.com/rldyourmnd/hack-2026-nornickel-mvp",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "rldyourmnd/hack-2026-nornickel-mvp Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Nornickel AI Hack 2026: early materials knowledge-graph MVP with evidence-backed answers. FastAPI + React + DuckDB.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333071",
+    "hash_id": "b2024d31d4c1"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333091",
+    "hash_id": "fb0261705c0f"
+  },
+  {
+    "name": "EAnge1o/hackathon-submission-guard",
+    "url": "https://github.com/EAnge1o/hackathon-submission-guard",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "EAnge1o/hackathon-submission-guard Zero-dependency submission-package hygiene checker for hackathons and competitions"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Zero-dependency submission-package hygiene checker for hackathons and competitions",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333116",
+    "hash_id": "be0169bd6171"
+  },
+  {
+    "name": "karanjakhar/flag-reaper",
+    "url": "https://github.com/karanjakhar/flag-reaper",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "karanjakhar/flag-reaper Flagsmith flag-debt cleanup agent: finds stale flags, removes dead code, open"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Flagsmith flag-debt cleanup agent: finds stale flags, removes dead code, opens the PR, archives the flag. Human approves every write. Toggle Wars hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333151",
+    "hash_id": "4a0ec9dd077a"
+  },
+  {
+    "name": "MichaelS1011/Ephemora-ProofGate",
+    "url": "https://github.com/MichaelS1011/Ephemora-ProofGate",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "independent evidence proves it: WASI-sandboxed execution in Ephemora Cell, external verification, NEAR escrow release."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Policy first. Payment last. ProofGate pays AI agents for finished work only after independent evidence proves it: WASI-sandboxed execution in Ephemora Cell, external verification, NEAR escrow release.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333169",
+    "hash_id": "28b27960f541"
+  },
+  {
+    "name": "madhesh60/logos_reasoning_agent",
+    "url": "https://github.com/madhesh60/logos_reasoning_agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "nd competitive intelligence pipeline built on Microsoft Azure AI Foundry. It is designed to assist market analysts, executives, and investment firms in scanning industry trends, profiling competitors,"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "LOGOS is a production-grade, multi-agent reasoning and competitive intelligence pipeline built on Microsoft Azure AI Foundry. It is designed to assist market analysts, executives, and investment firms in scanning industry trends, profiling competitors, assessing strategic risks, and compiling comprehensive strategy reports.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333195",
+    "hash_id": "e06eaff301e8"
+  },
+  {
+    "name": "fexx301/oathcast",
+    "url": "https://github.com/fexx301/oathcast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "fexx301/oathcast OathCast: a transparent calibration court for short-horizon machine forecasts"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "OathCast: a transparent calibration court for short-horizon machine forecasts",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333207",
+    "hash_id": "e04bd1f62b23"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333220",
+    "hash_id": "e766f1d3aabe"
+  },
+  {
+    "name": "AbdullahHasham/-achrona-hackathon-",
+    "url": "https://github.com/AbdullahHasham/-achrona-hackathon-",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "hHasham/-achrona-hackathon- 7-agent MCP-isolated forensic debate system built with Microsoft Agent Framework, FastMCP, Pydantic v2, deterministic Python citation verification & an interactive Arcade C",
+      "Agent Framework, FastMCP, Pydantic v2, deterministic Python citation verification & an interactive Arcade CRT Viewer (Hack The Future 2026)."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "7-agent MCP-isolated forensic debate system built with Microsoft Agent Framework, FastMCP, Pydantic v2, deterministic Python citation verification & an interactive Arcade CRT Viewer (Hack The Future 2026).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-26T17:39:11.333251",
+    "hash_id": "c7628e39861b"
+  }
+]
