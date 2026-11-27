@@ -1,0 +1,340 @@
+[
+  {
+    "name": "aksingh1608/vet",
+    "url": "https://github.com/aksingh1608/vet",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aksingh1608/vet Vendor due-diligence agent: checks software vendors' claims against records, with a link behind every reason."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Vendor due-diligence agent: checks software vendors' claims against records, with a link behind every reason.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.013842",
+    "hash_id": "8b7e43f7bea2"
+  },
+  {
+    "name": "VektorGeist/sensoryne",
+    "url": "https://github.com/VektorGeist/sensoryne",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "judges it against the work as written, and names what is wrong. A second connection point lets a separate judge model read the full record and judge the work itself."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Independent Perceptual Evaluation and Improvement Platform: Sensoryne perceives a model's finished work, judges it against the work as written, and names what is wrong. A second connection point lets a separate judge model read the full record and judge the work itself.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.013914",
+    "hash_id": "adfb919c3daa"
+  },
+  {
+    "name": "becloudready/labagent",
+    "url": "https://github.com/becloudready/labagent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "udready/labagent Open-source hands-on labs for technical training, workshops and hackathons. Launch GPU JupyterLab labs (H100, NVIDIA MIG) on RunPod, Lambda, Nebius and Shadeform, plus AWS, Azure and",
+      "e hands-on labs for technical training, workshops and hackathons. Launch GPU JupyterLab labs (H100, NVIDIA MIG) on RunPod, Lambda, Nebius and Shadeform, plus AWS, Azure and Databricks sandboxes. Azure"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Open-source hands-on labs for technical training, workshops and hackathons. Launch GPU JupyterLab labs (H100, NVIDIA MIG) on RunPod, Lambda, Nebius and Shadeform, plus AWS, Azure and Databricks sandboxes. Azure Lab Services alternative.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.013937",
+    "hash_id": "f345014f06ba"
+  },
+  {
+    "name": "AbdulAlharbi/exec-advisor",
+    "url": "https://github.com/AbdulAlharbi/exec-advisor",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "AbdulAlharbi/exec-advisor Multi-agent AI executive advisor: grounded findings, adversarial review, computed"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Multi-agent AI executive advisor: grounded findings, adversarial review, computed change detection.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.013964",
+    "hash_id": "2b28dd251e1b"
+  },
+  {
+    "name": "benji282007/Eneriya---MindMenders",
+    "url": "https://github.com/benji282007/Eneriya---MindMenders",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "007/Eneriya---MindMenders Memory assistant desktop app that recognises faces and recalls who people are. Python, face_recognition, CustomTkinter. MindMenders hackathon project.",
+      "benji282007/Eneriya---MindMenders Memory assistant desktop app that recognises faces and recalls who people are. Python, face_recognition, CustomTkinte"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Memory assistant desktop app that recognises faces and recalls who people are. Python, face_recognition, CustomTkinter. MindMenders hackathon project.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.013993",
+    "hash_id": "0ec8912e47de"
+  },
+  {
+    "name": "arrnaya/AgentRIA",
+    "url": "https://github.com/arrnaya/AgentRIA",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "arrnaya/AgentRIA RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence o"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "RIA — Reconnaissance Intelligence Agent: autonomous multi-agent DeFi intelligence on The Graph, Hedera x402, and ENSv2. Built for ETHGlobal Online 2026.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014015",
+    "hash_id": "8f1a8af7b58a"
+  },
+  {
+    "name": "PhylippusRex/noctis",
+    "url": "https://github.com/PhylippusRex/noctis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "PhylippusRex/noctis An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "An executive night-shift analyst, built to automate market briefings overnight so traders wake up to actionable intelligence. ",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014039",
+    "hash_id": "f7e2bc2e59e8"
+  },
+  {
+    "name": "Prashant-thakur77/AccessCast",
+    "url": "https://github.com/Prashant-thakur77/AccessCast",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves."
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "One video, made for every viewer: audio description (with extended description), captions with sounds, easy-read, and Hindi, Italian, Spanish, French and Portuguese versions. Gemma 4 31B on AMD Token Factory writes, code checks every line, a person approves.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014061",
+    "hash_id": "2466aae7f964"
+  },
+  {
+    "name": "karanjakhar/flag-reaper",
+    "url": "https://github.com/karanjakhar/flag-reaper",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "karanjakhar/flag-reaper Flagsmith flag-debt cleanup agent: finds stale flags, removes dead code, open"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Flagsmith flag-debt cleanup agent: finds stale flags, removes dead code, opens the PR, archives the flag. Human approves every write. Toggle Wars hackathon.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014078",
+    "hash_id": "2710a9d137d8"
+  },
+  {
+    "name": "BollareddyPranoyRaj/nyayavaani",
+    "url": "https://github.com/BollareddyPranoyRaj/nyayavaani",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "BollareddyPranoyRaj/nyayavaani AI Vernacular Telephonic First-Responder for Bharat. Powered by Gnani AI"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI Vernacular Telephonic First-Responder for Bharat. Powered by Gnani AI (Prisma v3.0, Evon 30B, Timbre v3.0) to triage noisy code-mixed distress calls, map offenses under Bharatiya Nyaya Sanhita (BNS 2023), and auto-generate official bilingual police FIR dossiers.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014107",
+    "hash_id": "4d547cb693d8"
+  },
+  {
+    "name": "Vallejo1921/paypal-smartcommerce-agent",
+    "url": "https://github.com/Vallejo1921/paypal-smartcommerce-agent",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Vallejo1921/paypal-smartcommerce-agent Autonomous Conversational Commerce & Dynamic Payment Settlement Agent for PayPal"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Autonomous Conversational Commerce & Dynamic Payment Settlement Agent for PayPal",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014119",
+    "hash_id": "61d89a135b48"
+  },
+  {
+    "name": "Vallejo1921/medclear-ai",
+    "url": "https://github.com/Vallejo1921/medclear-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "Vallejo1921/medclear-ai Clinical Plain-Language Translation & Patient Triage Engine (Build With AI Basics Hackathon)"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "Clinical Plain-Language Translation & Patient Triage Engine (Build With AI Basics Hackathon)",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014131",
+    "hash_id": "b6fde8849f10"
+  },
+  {
+    "name": "krishnayyar999-sudo/omniaudit-ai",
+    "url": "https://github.com/krishnayyar999-sudo/omniaudit-ai",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "krishnayyar999-sudo/omniaudit-ai AI-powered code vulnerability auditor, Big-O complexity analyzer, and automa"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "AI-powered code vulnerability auditor, Big-O complexity analyzer, and automatic refactoring engine.",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014143",
+    "hash_id": "3f39cb5e0a8c"
+  },
+  {
+    "name": "aravindanand2019-sudo/null-hypothesis",
+    "url": "https://github.com/aravindanand2019-sudo/null-hypothesis",
+    "source": "github",
+    "start_date": null,
+    "end_date": null,
+    "registration_deadline": null,
+    "location": "Online / Italia",
+    "format": "Hackathon",
+    "prizes_hardware": [
+      "aravindanand2019-sudo/null-hypothesis A/B testing Flagsmith's docs on 171 AI coding agents, with Fla"
+    ],
+    "prizes_cash": [],
+    "prizes_other": [],
+    "team_size": "1-5",
+    "eligibility": "Open",
+    "description": "A/B testing Flagsmith's docs on 171 AI coding agents, with Flagsmith Experimentation as the referee. Current Python docs: 28% working code. Agent-ready rewrite: 94% (+240% lift, >99% chance to win).",
+    "tags": [
+      "github",
+      "open-source"
+    ],
+    "scraped_at": "2026-11-27T17:22:36.014159",
+    "hash_id": "2a8f40eb0df1"
+  }
+]
